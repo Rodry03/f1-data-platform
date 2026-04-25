@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: f1_raw
+    description: "Datos crudos de Fórmula 1 cargados desde FastF1"
+    schema: main
+    tables:
+      - name: raw_races
+        description: "Calendario de carreras por temporada"
+      - name: raw_results
+        description: "Resultados de cada piloto por carrera"
+      - name: raw_fastest_laps
+        description: "Vuelta rápida por carrera"

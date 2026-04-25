@@ -1,0 +1,49 @@
+version: 2
+
+models:
+  - name: driver_standings
+    description: "Clasificación de pilotos por temporada con estadísticas agregadas"
+    columns:
+      - name: driver_code
+        description: "Código de tres letras del piloto (ej. VER, HAM)"
+        tests:
+          - not_null
+      - name: season_year
+        description: "Año de la temporada"
+        tests:
+          - not_null
+      - name: total_points
+        description: "Puntos totales acumulados en la temporada"
+        tests:
+          - not_null
+      - name: championship_position
+        description: "Posición en el campeonato ordenada por puntos"
+        tests:
+          - not_null
+          - unique_combination:
+              combination_of_columns:
+                - season_year
+                - championship_position
+
+  - name: team_performance
+    description: "Rendimiento de constructores por temporada"
+    columns:
+      - name: team_name
+        tests:
+          - not_null
+      - name: season_year
+        tests:
+          - not_null
+      - name: total_points
+        tests:
+          - not_null
+
+  - name: fastest_laps_enriched
+    description: "Vueltas rápidas por carrera enriquecidas con datos del calendario"
+    columns:
+      - name: driver_code
+        tests:
+          - not_null
+      - name: lap_time_seconds
+        tests:
+          - not_null
