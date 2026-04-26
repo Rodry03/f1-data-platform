@@ -8,6 +8,7 @@ races as (
 
 enriched as (
     select
+        {{ format_lap_time('f.lap_time_seconds') }} as lap_time_formatted,
         f.season_year,
         f.round_number,
         r.event_name,
