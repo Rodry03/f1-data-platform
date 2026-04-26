@@ -19,15 +19,11 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install dbt-duckdb==1.8.2 fastf1 pandas
+        run: pip install dbt-duckdb==1.8.2
 
-      - name: Create cache dir and load data
-        run: |
-          mkdir -p cache_f1
-          python ingest_f1.py
-
-      - name: Run dbt
+      - name: Load seeds and run dbt
         run: |
           cd f1_dbt
+          dbt seed
           dbt run
           dbt test

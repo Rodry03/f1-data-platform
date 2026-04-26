@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: f1_raw
-    description: "Datos crudos de Fórmula 1 cargados desde FastF1"
+    description: "Datos de Fórmula 1 cargados como seeds"
     schema: main
     tables:
       - name: raw_races
