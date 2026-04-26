@@ -21,6 +21,19 @@ jobs:
       - name: Install dependencies
         run: pip install dbt-duckdb==1.8.2
 
+      - name: Create dbt profiles
+        run: |
+          mkdir -p ~/.dbt
+          cat <<EOF > ~/.dbt/profiles.yml
+          f1_dbt:
+            target: dev
+            outputs:
+              dev:
+                type: duckdb
+                path: ../f1_data.duckdb
+                threads: 4
+          EOF
+
       - name: Load seeds and run dbt
         run: |
           cd f1_dbt
