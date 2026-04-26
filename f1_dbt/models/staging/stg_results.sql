@@ -1,5 +1,14 @@
+{{ config(
+    materialized='incremental',
+    unique_key='race_id || driver_code'
+) }}
+
 with source as (
     select * from {{ source('f1_raw', 'raw_results') }}
+
+    {% if is_incremental() %}
+        where year > (select max(season_year) from {{ this }})
+    {% endif %}
 ),
 
 renamed as (
