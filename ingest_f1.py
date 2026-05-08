@@ -13,6 +13,14 @@ con = duckdb.connect("f1_data.duckdb")
 year = int(sys.argv[1]) if len(sys.argv) > 1 else 2022
 print(f"\nCargando temporada {year}...")
 
+try:
+    rows = con.execute("SELECT DISTINCT round FROM raw_results WHERE year = ?", [year]).fetchall()
+    existing_rounds = {r[0] for r in rows}
+    if existing_rounds:
+        print(f"Rondas ya en BD: {sorted(existing_rounds)}, se saltarán")
+except Exception:
+    existing_rounds = set()
+
 carreras = []
 resultados = []
 vueltas_rapidas = []
@@ -30,6 +38,9 @@ for _, evento in schedule.iterrows():
         "country": pais,
         "date": fecha
     })
+    if ronda in existing_rounds:
+        print(f"  Ronda {ronda} ({nombre}) ya descargada, saltando...")
+        continue
     try:
         session = fastf1.get_session(year, ronda, "R")
         session.load()
