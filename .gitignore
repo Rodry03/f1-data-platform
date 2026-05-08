@@ -6,3 +6,4 @@ f1_dbt/dbt_packages/
 __pycache__/
 *.pyc
 .env
+*.code-workspace

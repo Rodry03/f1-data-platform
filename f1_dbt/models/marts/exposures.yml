@@ -1,0 +1,32 @@
+version: 2
+
+exposures:
+  - name: f1_rag_chatbot
+    type: application
+    maturity: medium
+    description: >
+      Chatbot RAG que responde preguntas en lenguaje natural sobre datos de F1.
+      Usa LangChain + Groq para traducir preguntas a SQL sobre los modelos marts.
+    depends_on:
+      - ref('driver_standings')
+      - ref('team_performance')
+      - ref('fastest_laps_enriched')
+    owner:
+      name: Rodrigo
+      email: tu@email.com
+
+  - name: f1_dbt_docs
+    type: dashboard
+    maturity: high
+    description: >
+      Documentación y lineage visual generado por dbt docs.
+    depends_on:
+      - ref('driver_standings')
+      - ref('team_performance')
+      - ref('fastest_laps_enriched')
+      - ref('stg_races')
+      - ref('stg_results')
+      - ref('stg_fastest_laps')
+    owner:
+      name: Rodrigo
+      email: tu@email.com
