@@ -7,7 +7,8 @@ with source as (
     select * from {{ source('f1_raw', 'raw_races') }}
 
     {% if is_incremental() %}
-        where year > (select max(season_year) from {{ this }})
+        where year || '-' || lpad(cast(round as varchar), 2, '0')
+              not in (select distinct race_id from {{ this }})
     {% endif %}
 ),
 
