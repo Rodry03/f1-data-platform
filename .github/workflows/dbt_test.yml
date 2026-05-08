@@ -37,6 +37,7 @@ jobs:
       - name: Load seeds and run dbt
         run: |
           cd f1_dbt
+          dbt deps
           dbt seed
           dbt run
           dbt test
