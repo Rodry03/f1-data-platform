@@ -19,3 +19,51 @@ year,round,event_name,driver_code,team,lap_time_seconds
 2022,18,Japanese Grand Prix,ZHO,Alfa Romeo,104.411
 2022,19,United States Grand Prix,RUS,Mercedes,98.788
 2022,20,Mexico City Grand Prix,RUS,Mercedes,80.153
+2022,21,São Paulo Grand Prix,RUS,Mercedes,73.785
+2022,22,Abu Dhabi Grand Prix,NOR,McLaren,88.391
+2023,1,Bahrain Grand Prix,ZHO,Alfa Romeo,93.996
+2023,2,Saudi Arabian Grand Prix,VER,Red Bull Racing,91.906
+2023,3,Australian Grand Prix,PER,Red Bull Racing,80.235
+2023,4,Azerbaijan Grand Prix,RUS,Mercedes,103.37
+2023,5,Miami Grand Prix,VER,Red Bull Racing,89.708
+2023,6,Monaco Grand Prix,HAM,Mercedes,75.65
+2023,7,Spanish Grand Prix,VER,Red Bull Racing,76.33
+2023,8,Canadian Grand Prix,PER,Red Bull Racing,74.481
+2023,9,Austrian Grand Prix,VER,Red Bull Racing,67.012
+2023,10,British Grand Prix,VER,Red Bull Racing,90.275
+2023,11,Hungarian Grand Prix,VER,Red Bull Racing,80.504
+2023,12,Belgian Grand Prix,HAM,Mercedes,107.305
+2023,13,Dutch Grand Prix,ALO,Aston Martin,73.837
+2023,14,Italian Grand Prix,PIA,McLaren,85.072
+2023,15,Singapore Grand Prix,HAM,Mercedes,95.867
+2023,16,Japanese Grand Prix,VER,Red Bull Racing,94.183
+2023,17,Qatar Grand Prix,VER,Red Bull Racing,84.319
+2023,18,United States Grand Prix,TSU,AlphaTauri,98.139
+2023,19,Mexico City Grand Prix,HAM,Mercedes,81.334
+2023,20,São Paulo Grand Prix,NOR,McLaren,72.486
+2023,21,Las Vegas Grand Prix,PIA,McLaren,95.49
+2023,22,Abu Dhabi Grand Prix,VER,Red Bull Racing,86.993
+2024,1,Bahrain Grand Prix,VER,Red Bull Racing,92.608
+2024,2,Saudi Arabian Grand Prix,LEC,Ferrari,91.632
+2024,3,Australian Grand Prix,LEC,Ferrari,79.813
+2024,4,Japanese Grand Prix,VER,Red Bull Racing,93.706
+2024,5,Chinese Grand Prix,ALO,Aston Martin,97.81
+2024,6,Miami Grand Prix,PIA,McLaren,90.634
+2024,7,Emilia Romagna Grand Prix,RUS,Mercedes,78.589
+2024,8,Monaco Grand Prix,HAM,Mercedes,74.165
+2024,9,Canadian Grand Prix,HAM,Mercedes,74.856
+2024,10,Spanish Grand Prix,NOR,McLaren,77.115
+2024,11,Austrian Grand Prix,ALO,Aston Martin,67.694
+2024,12,British Grand Prix,SAI,Ferrari,88.293
+2024,13,Hungarian Grand Prix,RUS,Mercedes,80.305
+2024,14,Belgian Grand Prix,PER,Red Bull Racing,104.701
+2024,15,Dutch Grand Prix,NOR,McLaren,73.817
+2024,16,Italian Grand Prix,NOR,McLaren,81.432
+2024,17,Azerbaijan Grand Prix,NOR,McLaren,105.255
+2024,18,Singapore Grand Prix,RIC,RB,94.486
+2024,19,United States Grand Prix,OCO,Alpine,97.33
+2024,20,Mexico City Grand Prix,LEC,Ferrari,78.336
+2024,21,São Paulo Grand Prix,VER,Red Bull Racing,80.472
+2024,22,Las Vegas Grand Prix,NOR,McLaren,94.876
+2024,23,Qatar Grand Prix,NOR,McLaren,82.384
+2024,24,Abu Dhabi Grand Prix,MAG,Haas F1 Team,85.637

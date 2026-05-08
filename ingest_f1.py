@@ -83,24 +83,19 @@ print(f"  Carreras:        {len(df_carreras)}")
 print(f"  Resultados:      {len(df_resultados)}")
 print(f"  Vueltas rapidas: {len(df_vueltas)}")
 
-# Insertar en DuckDB usando INSERT OR REPLACE para no duplicar
-if len(df_carreras) > 0:
-    con.execute("""
-        CREATE TABLE IF NOT EXISTS raw_races AS SELECT * FROM df_carreras WHERE 1=0
-    """)
-    con.execute("INSERT OR REPLACE INTO raw_races SELECT * FROM df_carreras")
+# raw_races: siempre tenemos todas las rondas, reemplazamos el año completo
+con.execute("CREATE TABLE IF NOT EXISTS raw_races AS SELECT * FROM df_carreras WHERE 1=0")
+con.execute("DELETE FROM raw_races WHERE year = ?", [year])
+con.execute("INSERT INTO raw_races SELECT * FROM df_carreras")
 
+# raw_results y raw_fastest_laps: solo contienen rondas nuevas, INSERT directo
 if len(df_resultados) > 0:
-    con.execute("""
-        CREATE TABLE IF NOT EXISTS raw_results AS SELECT * FROM df_resultados WHERE 1=0
-    """)
-    con.execute("INSERT OR REPLACE INTO raw_results SELECT * FROM df_resultados")
+    con.execute("CREATE TABLE IF NOT EXISTS raw_results AS SELECT * FROM df_resultados WHERE 1=0")
+    con.execute("INSERT INTO raw_results SELECT * FROM df_resultados")
 
 if len(df_vueltas) > 0:
-    con.execute("""
-        CREATE TABLE IF NOT EXISTS raw_fastest_laps AS SELECT * FROM df_vueltas WHERE 1=0
-    """)
-    con.execute("INSERT OR REPLACE INTO raw_fastest_laps SELECT * FROM df_vueltas")
+    con.execute("CREATE TABLE IF NOT EXISTS raw_fastest_laps AS SELECT * FROM df_vueltas WHERE 1=0")
+    con.execute("INSERT INTO raw_fastest_laps SELECT * FROM df_vueltas")
 
 print(f"\nTemporada {year} cargada en f1_data.duckdb")
 con.close()
