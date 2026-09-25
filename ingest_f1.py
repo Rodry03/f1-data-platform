@@ -1,8 +1,9 @@
-import fastf1
-import duckdb
-import pandas as pd
-from pathlib import Path
 import sys
+from pathlib import Path
+
+import duckdb
+import fastf1
+import pandas as pd
 
 Path("cache_f1").mkdir(exist_ok=True)
 fastf1.Cache.enable_cache("cache_f1")
@@ -78,7 +79,7 @@ df_carreras = pd.DataFrame(carreras)
 df_resultados = pd.DataFrame(resultados)
 df_vueltas = pd.DataFrame(vueltas_rapidas)
 
-print(f"\nFilas recopiladas:")
+print("\nFilas recopiladas:")
 print(f"  Carreras:        {len(df_carreras)}")
 print(f"  Resultados:      {len(df_resultados)}")
 print(f"  Vueltas rapidas: {len(df_vueltas)}")

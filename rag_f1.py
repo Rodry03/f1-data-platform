@@ -1,4 +1,5 @@
 import os
+
 import duckdb
 from dotenv import load_dotenv
 from langchain_core.prompts import ChatPromptTemplate
@@ -29,7 +30,6 @@ schema_text = "\n".join([
     for table, cols in schema.items()
 ])
 
-# llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0, api_key=os.getenv("GROQ_API_KEY"))
 
 
@@ -50,7 +50,7 @@ La consulta debe usar exactamente los nombres de tabla y columna del schema.""")
 sql_chain = prompt | llm
 
 answer_prompt = ChatPromptTemplate.from_messages([
-    ("system", """Eres un experto en Fórmula 1. 
+    ("system", """Eres un experto en Fórmula 1.
 Responde en español de forma clara y concisa basándote SOLO en los datos proporcionados.
 No inventes información que no esté en los datos."""),
     ("human", """Pregunta: {question}
@@ -66,17 +66,17 @@ answer_chain = answer_prompt | llm
 def ask(question: str):
     print(f"\nPregunta: {question}")
     print("-" * 50)
-    
+
     sql_response = sql_chain.invoke({
         "schema": schema_text,
         "question": question
     })
     sql = sql_response.content.strip()
     print(f"SQL generado:\n{sql}\n")
-    
+
     data = run_query(sql)
     print(f"Datos obtenidos:\n{data}\n")
-    
+
     answer = answer_chain.invoke({
         "question": question,
         "data": data

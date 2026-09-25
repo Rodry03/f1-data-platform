@@ -1,0 +1,13 @@
+[tool.ruff]
+line-length = 88
+exclude = [
+    "venv",
+    "f1_dbt/target",
+    "f1_dbt/dbt_packages",
+    "cache_f1",
+    "logs",
+]
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+ignore = ["E501"]

@@ -1,5 +1,5 @@
-import sys
 import subprocess
+import sys
 from pathlib import Path
 
 year = int(sys.argv[1]) if len(sys.argv) > 1 else None
@@ -23,4 +23,4 @@ run("dbt seed", cwd=root / "f1_dbt")
 run("dbt run", cwd=root / "f1_dbt")
 run("dbt test", cwd=root / "f1_dbt")
 
-print(f"\nPipeline completado.")
+print("\nPipeline completado.")
