@@ -62,7 +62,7 @@ RAG Chatbot (LangChain + Groq llama-3.3-70b)
 ## dbt Project details
 
 - **Profile:** `f1_dbt` → DuckDB file at `../f1_data.duckdb` (relative to `f1_dbt/`)
-- **Staging** materialised as incremental views; incremental predicate is `year > max(season_year)` on the existing table — adding a new season requires re-seeding and running.
+- **Staging** materialised incrementally (`race_id not in {{ this }}`) — adding new rounds requires re-seeding and running. Exception: `stg_races` is a plain view, because the calendar can change and renumber rounds.
 - **Marts** materialised as tables.
 
 ### Macros (`f1_dbt/macros/`)

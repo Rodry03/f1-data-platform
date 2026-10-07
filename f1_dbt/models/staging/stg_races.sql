@@ -1,15 +1,7 @@
-{{ config(
-    materialized='incremental',
-    unique_key='race_id'
-) }}
-
+-- Vista (no incremental): el calendario puede cambiar y renumerar rondas,
+-- así que siempre se lee completo desde raw_races
 with source as (
     select * from {{ source('f1_raw', 'raw_races') }}
-
-    {% if is_incremental() %}
-        where year || '-' || lpad(cast(round as varchar), 2, '0')
-              not in (select distinct race_id from {{ this }})
-    {% endif %}
 ),
 
 renamed as (
