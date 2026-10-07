@@ -66,6 +66,35 @@ with_laps as (
         on  p.race_id = le.race_id
         and p.end_time_s >  le.lap_start_s
         and p.end_time_s <= le.lap_end_s
+),
+
+-- Neutralización anterior (ignorando green/yellow) de cada periodo neutralizado
+neutralisations as (
+    select
+        race_id,
+        period_number,
+        lag(status_label) over w                            as prev_neutral_label,
+        lag(end_lap) over w                                 as prev_neutral_end_lap
+    from with_laps
+    where status_label not in ('green', 'yellow')
+    window w as (partition by race_id order by period_number)
+),
+
+-- Heurística: un SC que sigue directamente a una bandera roja y empieza a <= 2
+-- vueltas de ella es el procedimiento de reanudación, no un SC por incidente
+flagged as (
+    select
+        w.*,
+        coalesce(
+            w.status_label = 'safety_car'
+            and n.prev_neutral_label = 'red_flag'
+            and w.start_lap - n.prev_neutral_end_lap <= 2,
+            false
+        )                                                   as is_restart_procedure
+    from with_laps w
+    left join neutralisations n
+        on  w.race_id = n.race_id
+        and w.period_number = n.period_number
 )
 
 select
@@ -81,8 +110,9 @@ select
     w.end_time_s,
     round(w.end_time_s - w.start_time_s, 3)                 as duration_s,
     w.start_lap,
-    w.end_lap
-from with_laps w
+    w.end_lap,
+    w.is_restart_procedure
+from flagged w
 left join races r
     on w.race_id = r.race_id
 order by w.season_year, w.round_number, w.period_number

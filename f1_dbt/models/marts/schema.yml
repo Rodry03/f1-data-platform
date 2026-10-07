@@ -59,6 +59,8 @@ models:
           upper_bound_column: end_time_s
           partition_by: race_id
           gaps: not_allowed
+      - dbt_utils.expression_is_true:
+          expression: "not is_restart_procedure or status_label = 'safety_car'"
     columns:
       - name: race_id
         description: "Identificador de carrera (YYYY-RR)"
@@ -103,5 +105,16 @@ models:
         description: >
           Vuelta del líder en curso al terminar el periodo. 0 = el periodo termina antes
           de la salida. Tras la bandera a cuadros se usa la última vuelta.
+        tests:
+          - not_null
+      - name: is_restart_procedure
+        description: >
+          Heurística: true si el periodo es un Safety Car que sigue directamente a una
+          bandera roja (sin otra neutralización entre medias) y empieza a <= 2 vueltas
+          del fin de la roja, es decir, el SC del procedimiento de reanudación y no uno
+          por incidente. Validada contra race_control_messages con los 9 casos de SC
+          tras bandera roja de 2022-2026 (6 reanudaciones, 3 SC reales). Límite conocido:
+          un SC real a <= 2 vueltas de una reanudación se marcaría como true. Las
+          reanudaciones que no generan periodo safety_car en track status no quedan reflejadas.
         tests:
           - not_null
