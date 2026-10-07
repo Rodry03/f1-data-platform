@@ -5,14 +5,15 @@ from dotenv import load_dotenv
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
 
+from chatbot_schema import CHATBOT_TABLES, TABLE_NOTES
+
 load_dotenv()
 
 con = duckdb.connect("f1_data.duckdb")
 
 def get_schema():
     schema = {}
-    tables = ["driver_standings", "team_performance", "fastest_laps_enriched"]
-    for table in tables:
+    for table in CHATBOT_TABLES:
         cols = con.execute(f"DESCRIBE {table}").fetchall()
         schema[table] = [f"{col[0]} ({col[1]})" for col in cols]
     return schema
@@ -27,6 +28,7 @@ def run_query(sql: str):
 schema = get_schema()
 schema_text = "\n".join([
     f"Tabla: {table}\nColumnas: {', '.join(cols)}"
+    + (f"\n{TABLE_NOTES[table]}" if table in TABLE_NOTES else "")
     for table, cols in schema.items()
 ])
 
@@ -97,6 +99,9 @@ if __name__ == "__main__":
         "¿Cuál fue la vuelta rápida más rápida?",
         "¿Cuántos podios tuvo Leclerc en 2022?",
         "¿Qué piloto terminó más carreras en 2022?",
+        "¿En qué vueltas hubo Safety Car o bandera roja en Mónaco 2024?",
+        "¿Qué carrera de 2024 pasó más tiempo bajo VSC?",
+        "¿Cuántas banderas rojas hubo por temporada?",
     ]
 
     print("\nPreguntas de ejemplo:")

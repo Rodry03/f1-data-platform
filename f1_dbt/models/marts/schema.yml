@@ -47,3 +47,61 @@ models:
       - name: lap_time_seconds
         tests:
           - not_null
+
+  - name: track_status_periods
+    description: >
+      Periodos de estado de pista por carrera: un periodo por fila, desde un cambio
+      de estado hasta el siguiente. El último periodo cierra con el fin de sesión.
+      Los tiempos son segundos desde el inicio de la sesión.
+    tests:
+      - dbt_utils.mutually_exclusive_ranges:
+          lower_bound_column: start_time_s
+          upper_bound_column: end_time_s
+          partition_by: race_id
+          gaps: not_allowed
+    columns:
+      - name: race_id
+        description: "Identificador de carrera (YYYY-RR)"
+        tests:
+          - not_null
+      - name: period_number
+        description: "Orden del periodo dentro de la carrera, empezando en 1"
+        tests:
+          - not_null
+          - unique_combination:
+              combination_of_columns:
+                - race_id
+                - period_number
+      - name: status_code
+        description: "Código de track status de FastF1"
+        tests:
+          - not_null
+          - accepted_values:
+              values: [1, 2, 4, 5, 6, 7]
+              quote: false
+              config:
+                severity: warn
+      - name: status_label
+        description: "green / yellow / safety_car / red_flag / vsc_deployed / vsc_ending"
+      - name: start_time_s
+        description: "Inicio del periodo, en segundos desde el inicio de la sesión"
+        tests:
+          - not_null
+      - name: end_time_s
+        description: "Fin del periodo (inicio del siguiente o fin de sesión)"
+        tests:
+          - not_null
+      - name: duration_s
+        description: "Duración del periodo en segundos"
+      - name: start_lap
+        description: >
+          Vuelta del líder en curso al empezar el periodo. 0 = pre-carrera (antes de
+          que el líder empiece la vuelta 1). Tras la bandera a cuadros se usa la última vuelta.
+        tests:
+          - not_null
+      - name: end_lap
+        description: >
+          Vuelta del líder en curso al terminar el periodo. 0 = el periodo termina antes
+          de la salida. Tras la bandera a cuadros se usa la última vuelta.
+        tests:
+          - not_null

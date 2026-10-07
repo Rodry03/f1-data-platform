@@ -1,0 +1,1418 @@
+year,round,event_name,seq,time,status,message,session_end_time
+2022,1,Bahrain Grand Prix,0,00:13:36.667,1,AllClear,02:43:31.107
+2022,1,Bahrain Grand Prix,1,01:25:49.895,2,Yellow,02:43:31.107
+2022,1,Bahrain Grand Prix,2,01:25:58.557,1,AllClear,02:43:31.107
+2022,1,Bahrain Grand Prix,3,02:17:19.828,6,VSCDeployed,02:43:31.107
+2022,1,Bahrain Grand Prix,4,02:17:39.726,4,SCDeployed,02:43:31.107
+2022,1,Bahrain Grand Prix,5,02:28:54.157,1,AllClear,02:43:31.107
+2022,1,Bahrain Grand Prix,6,02:38:53.199,2,Yellow,02:43:31.107
+2022,2,Saudi Arabian Grand Prix,0,00:00:00,1,AllClear,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,1,00:01:46.583,2,Yellow,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,2,00:11:00.955,1,AllClear,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,3,00:24:06.423,2,Yellow,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,4,00:31:02.766,1,AllClear,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,5,01:27:06.24,2,Yellow,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,6,01:27:32.923,6,VSCDeployed,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,7,01:27:51.962,4,SCDeployed,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,8,01:38:40.471,1,AllClear,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,9,02:05:13.559,2,Yellow,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,10,02:06:20.738,6,VSCDeployed,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,11,02:11:24.173,7,VSCEnding,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,12,02:11:36.808,1,AllClear,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,13,02:23:32.259,2,Yellow,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,14,02:23:39.541,1,AllClear,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,15,02:23:40.529,2,Yellow,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,16,02:23:48.232,1,AllClear,02:35:03.127
+2022,2,Saudi Arabian Grand Prix,17,02:24:12.424,2,Yellow,02:35:03.127
+2022,3,Australian Grand Prix,0,00:11:29.385,1,AllClear,02:46:12.088
+2022,3,Australian Grand Prix,1,01:04:51.877,2,Yellow,02:46:12.088
+2022,3,Australian Grand Prix,2,01:05:47.999,6,VSCDeployed,02:46:12.088
+2022,3,Australian Grand Prix,3,01:06:34.882,4,SCDeployed,02:46:12.088
+2022,3,Australian Grand Prix,4,01:13:33.242,1,AllClear,02:46:12.088
+2022,3,Australian Grand Prix,5,01:37:24.288,2,Yellow,02:46:12.088
+2022,3,Australian Grand Prix,6,01:37:26.582,1,AllClear,02:46:12.088
+2022,3,Australian Grand Prix,7,01:37:28.643,2,Yellow,02:46:12.088
+2022,3,Australian Grand Prix,8,01:37:40.082,4,SCDeployed,02:46:12.088
+2022,3,Australian Grand Prix,9,01:45:30.263,1,AllClear,02:46:12.088
+2022,3,Australian Grand Prix,10,02:02:57.882,6,VSCDeployed,02:46:12.088
+2022,3,Australian Grand Prix,11,02:04:42.705,7,VSCEnding,02:46:12.088
+2022,3,Australian Grand Prix,12,02:04:56.094,1,AllClear,02:46:12.088
+2022,3,Australian Grand Prix,13,02:32:54.609,2,Yellow,02:46:12.088
+2022,3,Australian Grand Prix,14,02:32:56.747,1,AllClear,02:46:12.088
+2022,3,Australian Grand Prix,15,02:33:25.544,2,Yellow,02:46:12.088
+2022,3,Australian Grand Prix,16,02:35:21.742,1,AllClear,02:46:12.088
+2022,4,Emilia Romagna Grand Prix,0,00:00:00,1,AllClear,02:38:33.128
+2022,4,Emilia Romagna Grand Prix,1,01:02:23.363,2,Yellow,02:38:33.128
+2022,4,Emilia Romagna Grand Prix,2,01:03:13.645,4,SCDeployed,02:38:33.128
+2022,4,Emilia Romagna Grand Prix,3,01:10:53.647,1,AllClear,02:38:33.128
+2022,4,Emilia Romagna Grand Prix,4,01:42:12.719,2,Yellow,02:38:33.128
+2022,4,Emilia Romagna Grand Prix,5,01:42:19.717,1,AllClear,02:38:33.128
+2022,4,Emilia Romagna Grand Prix,6,02:20:45.792,2,Yellow,02:38:33.128
+2022,4,Emilia Romagna Grand Prix,7,02:20:55.223,1,AllClear,02:38:33.128
+2022,5,Miami Grand Prix,0,00:02:08.769,1,AllClear,02:53:32.42
+2022,5,Miami Grand Prix,1,01:33:01.398,2,Yellow,02:53:32.42
+2022,5,Miami Grand Prix,2,01:33:11.895,1,AllClear,02:53:32.42
+2022,5,Miami Grand Prix,3,02:05:28.249,2,Yellow,02:53:32.42
+2022,5,Miami Grand Prix,4,02:05:28.608,6,VSCDeployed,02:53:32.42
+2022,5,Miami Grand Prix,5,02:06:49.739,4,SCDeployed,02:53:32.42
+2022,5,Miami Grand Prix,6,02:19:42.516,1,AllClear,02:53:32.42
+2022,5,Miami Grand Prix,7,02:20:09.086,2,Yellow,02:53:32.42
+2022,5,Miami Grand Prix,8,02:20:10.661,1,AllClear,02:53:32.42
+2022,5,Miami Grand Prix,9,02:31:02.228,2,Yellow,02:53:32.42
+2022,5,Miami Grand Prix,10,02:31:09.097,1,AllClear,02:53:32.42
+2022,5,Miami Grand Prix,11,02:34:58.268,2,Yellow,02:53:32.42
+2022,5,Miami Grand Prix,12,02:34:59.877,1,AllClear,02:53:32.42
+2022,6,Spanish Grand Prix,0,00:00:00,2,Yellow,02:54:21.627
+2022,6,Spanish Grand Prix,1,00:07:30.185,1,AllClear,02:54:21.627
+2022,6,Spanish Grand Prix,2,01:02:47.426,2,Yellow,02:54:21.627
+2022,6,Spanish Grand Prix,3,01:02:59.996,1,AllClear,02:54:21.627
+2022,6,Spanish Grand Prix,4,01:11:36.002,2,Yellow,02:54:21.627
+2022,6,Spanish Grand Prix,5,01:11:48.338,1,AllClear,02:54:21.627
+2022,6,Spanish Grand Prix,6,01:14:25.457,2,Yellow,02:54:21.627
+2022,6,Spanish Grand Prix,7,01:14:33.638,1,AllClear,02:54:21.627
+2022,7,Monaco Grand Prix,0,00:00:00,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,1,00:25:31.516,2,Yellow,04:04:22.91
+2022,7,Monaco Grand Prix,2,00:25:37.692,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,3,00:51:03.026,2,Yellow,04:04:22.91
+2022,7,Monaco Grand Prix,4,00:51:13.019,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,5,01:19:22.344,5,Red,04:04:22.91
+2022,7,Monaco Grand Prix,6,02:02:18.135,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,7,02:05:59.441,2,Yellow,04:04:22.91
+2022,7,Monaco Grand Prix,8,02:06:15.238,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,9,02:07:21.514,4,SCDeployed,04:04:22.91
+2022,7,Monaco Grand Prix,10,02:08:37.509,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,11,02:14:27.027,2,Yellow,04:04:22.91
+2022,7,Monaco Grand Prix,12,02:14:29.64,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,13,02:21:45.327,2,Yellow,04:04:22.91
+2022,7,Monaco Grand Prix,14,02:21:52.47,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,15,02:22:59.472,2,Yellow,04:04:22.91
+2022,7,Monaco Grand Prix,16,02:23:06.994,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,17,02:33:15.824,2,Yellow,04:04:22.91
+2022,7,Monaco Grand Prix,18,02:33:19.417,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,19,02:37:54.716,2,Yellow,04:04:22.91
+2022,7,Monaco Grand Prix,20,02:38:01.377,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,21,02:46:32.826,2,Yellow,04:04:22.91
+2022,7,Monaco Grand Prix,22,02:46:46.261,6,VSCDeployed,04:04:22.91
+2022,7,Monaco Grand Prix,23,02:48:33.853,4,SCDeployed,04:04:22.91
+2022,7,Monaco Grand Prix,24,02:54:02.815,5,Red,04:04:22.91
+2022,7,Monaco Grand Prix,25,03:10:08.667,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,26,03:50:03.263,2,Yellow,04:04:22.91
+2022,7,Monaco Grand Prix,27,03:50:10.544,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,28,03:54:35,2,Yellow,04:04:22.91
+2022,7,Monaco Grand Prix,29,03:54:43.128,1,AllClear,04:04:22.91
+2022,7,Monaco Grand Prix,30,04:04:20.991,2,Yellow,04:04:22.91
+2022,8,Azerbaijan Grand Prix,0,00:00:03.133,2,Yellow,02:47:50.504
+2022,8,Azerbaijan Grand Prix,1,00:00:12.284,1,AllClear,02:47:50.504
+2022,8,Azerbaijan Grand Prix,2,00:00:14.876,2,Yellow,02:47:50.504
+2022,8,Azerbaijan Grand Prix,3,00:11:48.278,1,AllClear,02:47:50.504
+2022,8,Azerbaijan Grand Prix,4,00:20:40.673,2,Yellow,02:47:50.504
+2022,8,Azerbaijan Grand Prix,5,00:21:07.849,1,AllClear,02:47:50.504
+2022,8,Azerbaijan Grand Prix,6,00:51:37.173,2,Yellow,02:47:50.504
+2022,8,Azerbaijan Grand Prix,7,00:51:43.773,1,AllClear,02:47:50.504
+2022,8,Azerbaijan Grand Prix,8,00:51:47.484,2,Yellow,02:47:50.504
+2022,8,Azerbaijan Grand Prix,9,00:52:07.769,1,AllClear,02:47:50.504
+2022,8,Azerbaijan Grand Prix,10,00:52:14.69,2,Yellow,02:47:50.504
+2022,8,Azerbaijan Grand Prix,11,00:52:24.748,1,AllClear,02:47:50.504
+2022,8,Azerbaijan Grand Prix,12,01:18:10.247,2,Yellow,02:47:50.504
+2022,8,Azerbaijan Grand Prix,13,01:19:09.213,6,VSCDeployed,02:47:50.504
+2022,8,Azerbaijan Grand Prix,14,01:21:06.431,7,VSCEnding,02:47:50.504
+2022,8,Azerbaijan Grand Prix,15,01:21:20.621,1,AllClear,02:47:50.504
+2022,8,Azerbaijan Grand Prix,16,01:26:26.185,2,Yellow,02:47:50.504
+2022,8,Azerbaijan Grand Prix,17,01:26:32.065,1,AllClear,02:47:50.504
+2022,8,Azerbaijan Grand Prix,18,02:02:45.972,2,Yellow,02:47:50.504
+2022,8,Azerbaijan Grand Prix,19,02:03:22.133,6,VSCDeployed,02:47:50.504
+2022,8,Azerbaijan Grand Prix,20,02:07:27.871,7,VSCEnding,02:47:50.504
+2022,8,Azerbaijan Grand Prix,21,02:07:40.908,1,AllClear,02:47:50.504
+2022,8,Azerbaijan Grand Prix,22,02:38:28.902,2,Yellow,02:47:50.504
+2022,9,Canadian Grand Prix,0,00:00:00,2,Yellow,02:45:24.027
+2022,9,Canadian Grand Prix,1,00:06:01.85,1,AllClear,02:45:24.027
+2022,9,Canadian Grand Prix,2,01:12:46.079,2,Yellow,02:45:24.027
+2022,9,Canadian Grand Prix,3,01:13:11.665,6,VSCDeployed,02:45:24.027
+2022,9,Canadian Grand Prix,4,01:15:55.176,7,VSCEnding,02:45:24.027
+2022,9,Canadian Grand Prix,5,01:16:09.743,1,AllClear,02:45:24.027
+2022,9,Canadian Grand Prix,6,01:27:52.759,2,Yellow,02:45:24.027
+2022,9,Canadian Grand Prix,7,01:28:10.13,6,VSCDeployed,02:45:24.027
+2022,9,Canadian Grand Prix,8,01:29:35.617,7,VSCEnding,02:45:24.027
+2022,9,Canadian Grand Prix,9,01:29:49.731,1,AllClear,02:45:24.027
+2022,9,Canadian Grand Prix,10,02:06:35.092,2,Yellow,02:45:24.027
+2022,9,Canadian Grand Prix,11,02:07:19.35,4,SCDeployed,02:45:24.027
+2022,9,Canadian Grand Prix,12,02:18:05.44,1,AllClear,02:45:24.027
+2022,10,British Grand Prix,0,00:00:00,1,AllClear,03:28:25.525
+2022,10,British Grand Prix,1,01:02:26.276,2,Yellow,03:28:25.525
+2022,10,British Grand Prix,2,01:02:38.097,5,Red,03:28:25.525
+2022,10,British Grand Prix,3,01:54:02.388,1,AllClear,03:28:25.525
+2022,10,British Grand Prix,4,02:11:53.059,2,Yellow,03:28:25.525
+2022,10,British Grand Prix,5,02:12:03.034,1,AllClear,03:28:25.525
+2022,10,British Grand Prix,6,02:55:58.711,2,Yellow,03:28:25.525
+2022,10,British Grand Prix,7,02:56:11.429,4,SCDeployed,03:28:25.525
+2022,10,British Grand Prix,8,03:04:51.2,1,AllClear,03:28:25.525
+2022,10,British Grand Prix,9,03:20:51.705,2,Yellow,03:28:25.525
+2022,10,British Grand Prix,10,03:22:47.062,1,AllClear,03:28:25.525
+2022,11,Austrian Grand Prix,0,00:08:05.416,1,AllClear,02:31:27.396
+2022,11,Austrian Grand Prix,1,01:48:58.964,2,Yellow,02:31:27.396
+2022,11,Austrian Grand Prix,2,01:49:14.531,1,AllClear,02:31:27.396
+2022,11,Austrian Grand Prix,3,02:09:18.938,2,Yellow,02:31:27.396
+2022,11,Austrian Grand Prix,4,02:09:21.419,1,AllClear,02:31:27.396
+2022,11,Austrian Grand Prix,5,02:09:26.637,2,Yellow,02:31:27.396
+2022,11,Austrian Grand Prix,6,02:10:18.024,6,VSCDeployed,02:31:27.396
+2022,11,Austrian Grand Prix,7,02:12:46.453,7,VSCEnding,02:31:27.396
+2022,11,Austrian Grand Prix,8,02:12:58.041,1,AllClear,02:31:27.396
+2022,12,French Grand Prix,0,00:00:00,1,AllClear,02:25:09.159
+2022,12,French Grand Prix,1,00:15:20.751,2,Yellow,02:25:09.159
+2022,12,French Grand Prix,2,00:15:23.161,1,AllClear,02:25:09.159
+2022,12,French Grand Prix,3,00:15:24.861,2,Yellow,02:25:09.159
+2022,12,French Grand Prix,4,00:15:27.74,1,AllClear,02:25:09.159
+2022,12,French Grand Prix,5,00:43:42.474,2,Yellow,02:25:09.159
+2022,12,French Grand Prix,6,00:43:57.738,1,AllClear,02:25:09.159
+2022,12,French Grand Prix,7,01:11:55.277,2,Yellow,02:25:09.159
+2022,12,French Grand Prix,8,01:12:15.584,4,SCDeployed,02:25:09.159
+2022,12,French Grand Prix,9,01:18:02.505,1,AllClear,02:25:09.159
+2022,12,French Grand Prix,10,01:21:18.845,2,Yellow,02:25:09.159
+2022,12,French Grand Prix,11,01:21:37,1,AllClear,02:25:09.159
+2022,12,French Grand Prix,12,01:47:01.605,2,Yellow,02:25:09.159
+2022,12,French Grand Prix,13,01:47:07.661,1,AllClear,02:25:09.159
+2022,12,French Grand Prix,14,02:05:04.377,2,Yellow,02:25:09.159
+2022,12,French Grand Prix,15,02:05:47.311,6,VSCDeployed,02:25:09.159
+2022,12,French Grand Prix,16,02:06:45.7,7,VSCEnding,02:25:09.159
+2022,12,French Grand Prix,17,02:07:44.438,1,AllClear,02:25:09.159
+2022,13,Hungarian Grand Prix,0,00:00:00,2,Yellow,02:51:22.728
+2022,13,Hungarian Grand Prix,1,00:04:16.015,1,AllClear,02:51:22.728
+2022,13,Hungarian Grand Prix,2,01:02:47.449,2,Yellow,02:51:22.728
+2022,13,Hungarian Grand Prix,3,01:03:00.518,1,AllClear,02:51:22.728
+2022,13,Hungarian Grand Prix,4,01:03:35.598,6,VSCDeployed,02:51:22.728
+2022,13,Hungarian Grand Prix,5,01:05:42.914,7,VSCEnding,02:51:22.728
+2022,13,Hungarian Grand Prix,6,01:05:53.098,1,AllClear,02:51:22.728
+2022,13,Hungarian Grand Prix,7,01:51:41.509,2,Yellow,02:51:22.728
+2022,13,Hungarian Grand Prix,8,01:51:56.165,1,AllClear,02:51:22.728
+2022,13,Hungarian Grand Prix,9,02:00:44.321,2,Yellow,02:51:22.728
+2022,13,Hungarian Grand Prix,10,02:00:46.696,1,AllClear,02:51:22.728
+2022,13,Hungarian Grand Prix,11,02:09:19.027,2,Yellow,02:51:22.728
+2022,13,Hungarian Grand Prix,12,02:09:21.966,1,AllClear,02:51:22.728
+2022,13,Hungarian Grand Prix,13,02:09:26.516,2,Yellow,02:51:22.728
+2022,13,Hungarian Grand Prix,14,02:09:28.57,1,AllClear,02:51:22.728
+2022,13,Hungarian Grand Prix,15,02:36:59.872,2,Yellow,02:51:22.728
+2022,13,Hungarian Grand Prix,16,02:37:36.563,6,VSCDeployed,02:51:22.728
+2022,13,Hungarian Grand Prix,17,02:39:27.997,7,VSCEnding,02:51:22.728
+2022,13,Hungarian Grand Prix,18,02:39:41.769,1,AllClear,02:51:22.728
+2022,14,Belgian Grand Prix,0,00:01:29.745,1,AllClear,02:45:51.194
+2022,14,Belgian Grand Prix,1,00:30:37.879,2,Yellow,02:45:51.194
+2022,14,Belgian Grand Prix,2,00:31:09.838,1,AllClear,02:45:51.194
+2022,14,Belgian Grand Prix,3,01:03:26.855,2,Yellow,02:45:51.194
+2022,14,Belgian Grand Prix,4,01:03:32.069,1,AllClear,02:45:51.194
+2022,14,Belgian Grand Prix,5,01:05:18.853,2,Yellow,02:45:51.194
+2022,14,Belgian Grand Prix,6,01:05:51.78,4,SCDeployed,02:45:51.194
+2022,14,Belgian Grand Prix,7,01:12:57.77,1,AllClear,02:45:51.194
+2022,14,Belgian Grand Prix,8,02:28:40.049,2,Yellow,02:45:51.194
+2022,14,Belgian Grand Prix,9,02:30:56.014,1,AllClear,02:45:51.194
+2022,15,Dutch Grand Prix,0,00:00:00,1,AllClear,02:42:31.569
+2022,15,Dutch Grand Prix,1,01:03:40.534,2,Yellow,02:42:31.569
+2022,15,Dutch Grand Prix,2,01:03:46.992,1,AllClear,02:42:31.569
+2022,15,Dutch Grand Prix,3,01:06:24.939,2,Yellow,02:42:31.569
+2022,15,Dutch Grand Prix,4,01:06:28.074,1,AllClear,02:42:31.569
+2022,15,Dutch Grand Prix,5,01:57:59.631,2,Yellow,02:42:31.569
+2022,15,Dutch Grand Prix,6,01:59:00.629,1,AllClear,02:42:31.569
+2022,15,Dutch Grand Prix,7,02:01:59.716,2,Yellow,02:42:31.569
+2022,15,Dutch Grand Prix,8,02:02:28.234,6,VSCDeployed,02:42:31.569
+2022,15,Dutch Grand Prix,9,02:06:03.103,7,VSCEnding,02:42:31.569
+2022,15,Dutch Grand Prix,10,02:06:16.78,1,AllClear,02:42:31.569
+2022,15,Dutch Grand Prix,11,02:13:01.978,2,Yellow,02:42:31.569
+2022,15,Dutch Grand Prix,12,02:14:18.971,4,SCDeployed,02:42:31.569
+2022,15,Dutch Grand Prix,13,02:23:46.597,1,AllClear,02:42:31.569
+2022,16,Italian Grand Prix,0,00:07:13.128,1,AllClear,02:26:45.148
+2022,16,Italian Grand Prix,1,00:07:13.128,2,Yellow,02:26:45.148
+2022,16,Italian Grand Prix,2,00:08:32.384,1,AllClear,02:26:45.148
+2022,16,Italian Grand Prix,3,01:18:18.928,2,Yellow,02:26:45.148
+2022,16,Italian Grand Prix,4,01:18:28.703,1,AllClear,02:26:45.148
+2022,16,Italian Grand Prix,5,01:18:29.579,2,Yellow,02:26:45.148
+2022,16,Italian Grand Prix,6,01:18:50.912,6,VSCDeployed,02:26:45.148
+2022,16,Italian Grand Prix,7,01:20:01.263,7,VSCEnding,02:26:45.148
+2022,16,Italian Grand Prix,8,01:20:14.67,1,AllClear,02:26:45.148
+2022,16,Italian Grand Prix,9,02:09:42.002,2,Yellow,02:26:45.148
+2022,16,Italian Grand Prix,10,02:10:43.523,4,SCDeployed,02:26:45.148
+2022,17,Singapore Grand Prix,0,00:14:57.999,1,AllClear,04:33:38.173
+2022,17,Singapore Grand Prix,1,00:48:08.38,2,Yellow,04:33:38.173
+2022,17,Singapore Grand Prix,2,01:19:47.419,1,AllClear,04:33:38.173
+2022,17,Singapore Grand Prix,3,01:37:26.264,2,Yellow,04:33:38.173
+2022,17,Singapore Grand Prix,4,01:46:46.991,1,AllClear,04:33:38.173
+2022,17,Singapore Grand Prix,5,02:08:46.566,2,Yellow,04:33:38.173
+2022,17,Singapore Grand Prix,6,02:08:48.063,1,AllClear,04:33:38.173
+2022,17,Singapore Grand Prix,7,02:21:22.302,2,Yellow,04:33:38.173
+2022,17,Singapore Grand Prix,8,02:21:28.424,1,AllClear,04:33:38.173
+2022,17,Singapore Grand Prix,9,02:21:45.12,2,Yellow,04:33:38.173
+2022,17,Singapore Grand Prix,10,02:23:37.736,4,SCDeployed,04:33:38.173
+2022,17,Singapore Grand Prix,11,02:30:05.688,1,AllClear,04:33:38.173
+2022,17,Singapore Grand Prix,12,02:51:31.439,2,Yellow,04:33:38.173
+2022,17,Singapore Grand Prix,13,02:52:08.287,6,VSCDeployed,04:33:38.173
+2022,17,Singapore Grand Prix,14,02:55:00.727,7,VSCEnding,04:33:38.173
+2022,17,Singapore Grand Prix,15,02:55:11.3,1,AllClear,04:33:38.173
+2022,17,Singapore Grand Prix,16,03:00:45.695,2,Yellow,04:33:38.173
+2022,17,Singapore Grand Prix,17,03:01:07.906,1,AllClear,04:33:38.173
+2022,17,Singapore Grand Prix,18,03:01:13.091,2,Yellow,04:33:38.173
+2022,17,Singapore Grand Prix,19,03:02:02.127,6,VSCDeployed,04:33:38.173
+2022,17,Singapore Grand Prix,20,03:03:26.325,7,VSCEnding,04:33:38.173
+2022,17,Singapore Grand Prix,21,03:03:38.22,1,AllClear,04:33:38.173
+2022,17,Singapore Grand Prix,22,03:05:29.126,2,Yellow,04:33:38.173
+2022,17,Singapore Grand Prix,23,03:06:56.303,6,VSCDeployed,04:33:38.173
+2022,17,Singapore Grand Prix,24,03:10:55.964,7,VSCEnding,04:33:38.173
+2022,17,Singapore Grand Prix,25,03:11:10.227,1,AllClear,04:33:38.173
+2022,17,Singapore Grand Prix,26,03:17:00.351,2,Yellow,04:33:38.173
+2022,17,Singapore Grand Prix,27,03:17:06.68,1,AllClear,04:33:38.173
+2022,17,Singapore Grand Prix,28,03:22:48.614,2,Yellow,04:33:38.173
+2022,17,Singapore Grand Prix,29,03:23:29.51,4,SCDeployed,04:33:38.173
+2022,17,Singapore Grand Prix,30,03:33:18.832,1,AllClear,04:33:38.173
+2022,18,Japanese Grand Prix,0,00:00:00,1,AllClear,04:15:06.423
+2022,18,Japanese Grand Prix,1,01:02:52.655,2,Yellow,04:15:06.423
+2022,18,Japanese Grand Prix,2,01:03:12.328,1,AllClear,04:15:06.423
+2022,18,Japanese Grand Prix,3,01:03:47.819,2,Yellow,04:15:06.423
+2022,18,Japanese Grand Prix,4,01:04:10,4,SCDeployed,04:15:06.423
+2022,18,Japanese Grand Prix,5,01:07:12.953,5,Red,04:15:06.423
+2022,18,Japanese Grand Prix,6,03:03:47.299,1,AllClear,04:15:06.423
+2022,19,United States Grand Prix,0,00:00:00,1,AllClear,03:07:43.637
+2022,19,United States Grand Prix,1,00:10:06.521,2,Yellow,03:07:43.637
+2022,19,United States Grand Prix,2,00:10:08.261,1,AllClear,03:07:43.637
+2022,19,United States Grand Prix,3,00:14:45.524,2,Yellow,03:07:43.637
+2022,19,United States Grand Prix,4,00:14:47.025,1,AllClear,03:07:43.637
+2022,19,United States Grand Prix,5,00:14:48.446,2,Yellow,03:07:43.637
+2022,19,United States Grand Prix,6,00:14:50.265,1,AllClear,03:07:43.637
+2022,19,United States Grand Prix,7,00:15:30.757,2,Yellow,03:07:43.637
+2022,19,United States Grand Prix,8,00:15:34.166,1,AllClear,03:07:43.637
+2022,19,United States Grand Prix,9,01:02:54.062,2,Yellow,03:07:43.637
+2022,19,United States Grand Prix,10,01:02:58.311,1,AllClear,03:07:43.637
+2022,19,United States Grand Prix,11,01:32:34.068,2,Yellow,03:07:43.637
+2022,19,United States Grand Prix,12,01:33:06.788,4,SCDeployed,03:07:43.637
+2022,19,United States Grand Prix,13,01:41:54.8,1,AllClear,03:07:43.637
+2022,19,United States Grand Prix,14,01:43:05.66,2,Yellow,03:07:43.637
+2022,19,United States Grand Prix,15,01:43:13.471,4,SCDeployed,03:07:43.637
+2022,19,United States Grand Prix,16,01:52:19.096,1,AllClear,03:07:43.637
+2022,20,Mexico City Grand Prix,0,00:00:02.936,2,Yellow,02:44:40.899
+2022,20,Mexico City Grand Prix,1,00:06:31.711,1,AllClear,02:44:40.899
+2022,20,Mexico City Grand Prix,2,02:31:34.69,2,Yellow,02:44:40.899
+2022,20,Mexico City Grand Prix,3,02:31:57.09,6,VSCDeployed,02:44:40.899
+2022,20,Mexico City Grand Prix,4,02:32:50.946,7,VSCEnding,02:44:40.899
+2022,20,Mexico City Grand Prix,5,02:33:02.399,1,AllClear,02:44:40.899
+2022,21,São Paulo Grand Prix,0,00:13:30.735,1,AllClear,02:46:57.193
+2022,21,São Paulo Grand Prix,1,01:02:34.787,2,Yellow,02:46:57.193
+2022,21,São Paulo Grand Prix,2,01:02:44.831,4,SCDeployed,02:46:57.193
+2022,21,São Paulo Grand Prix,3,01:12:52.027,1,AllClear,02:46:57.193
+2022,21,São Paulo Grand Prix,4,01:13:49.89,2,Yellow,02:46:57.193
+2022,21,São Paulo Grand Prix,5,01:14:01.337,1,AllClear,02:46:57.193
+2022,21,São Paulo Grand Prix,6,02:11:42.913,2,Yellow,02:46:57.193
+2022,21,São Paulo Grand Prix,7,02:12:45.52,6,VSCDeployed,02:46:57.193
+2022,21,São Paulo Grand Prix,8,02:15:23.432,4,SCDeployed,02:46:57.193
+2022,21,São Paulo Grand Prix,9,02:25:12.153,1,AllClear,02:46:57.193
+2022,22,Abu Dhabi Grand Prix,0,00:00:00,1,AllClear,02:34:32.429
+2022,22,Abu Dhabi Grand Prix,1,00:02:19.161,2,Yellow,02:34:32.429
+2022,22,Abu Dhabi Grand Prix,2,00:02:21.239,1,AllClear,02:34:32.429
+2022,22,Abu Dhabi Grand Prix,3,02:00:17.981,2,Yellow,02:34:32.429
+2022,22,Abu Dhabi Grand Prix,4,02:00:27.096,1,AllClear,02:34:32.429
+2023,1,Bahrain Grand Prix,0,00:05:28.637,1,AllClear,02:41:50.826
+2023,1,Bahrain Grand Prix,1,00:21:59.04,2,Yellow,02:41:50.826
+2023,1,Bahrain Grand Prix,2,00:22:03.165,1,AllClear,02:41:50.826
+2023,1,Bahrain Grand Prix,3,01:03:07.651,2,Yellow,02:41:50.826
+2023,1,Bahrain Grand Prix,4,01:03:08.151,1,AllClear,02:41:50.826
+2023,1,Bahrain Grand Prix,5,01:04:15.978,2,Yellow,02:41:50.826
+2023,1,Bahrain Grand Prix,6,01:04:51.243,1,AllClear,02:41:50.826
+2023,1,Bahrain Grand Prix,7,02:08:59.83,2,Yellow,02:41:50.826
+2023,1,Bahrain Grand Prix,8,02:09:18.298,6,VSCDeployed,02:41:50.826
+2023,1,Bahrain Grand Prix,9,02:10:53.875,7,VSCEnding,02:41:50.826
+2023,1,Bahrain Grand Prix,10,02:11:06.437,1,AllClear,02:41:50.826
+2023,2,Saudi Arabian Grand Prix,0,00:00:00,1,AllClear,02:44:07.819
+2023,2,Saudi Arabian Grand Prix,1,01:29:32.087,2,Yellow,02:44:07.819
+2023,2,Saudi Arabian Grand Prix,2,01:30:11.102,4,SCDeployed,02:44:07.819
+2023,2,Saudi Arabian Grand Prix,3,01:37:27.407,1,AllClear,02:44:07.819
+2023,3,Australian Grand Prix,0,00:00:00,2,Yellow,03:54:06.995
+2023,3,Australian Grand Prix,1,00:13:07.538,1,AllClear,03:54:06.995
+2023,3,Australian Grand Prix,2,00:30:47.338,2,Yellow,03:54:06.995
+2023,3,Australian Grand Prix,3,00:39:12.957,1,AllClear,03:54:06.995
+2023,3,Australian Grand Prix,4,01:02:44.534,2,Yellow,03:54:06.995
+2023,3,Australian Grand Prix,5,01:03:25.831,4,SCDeployed,03:54:06.995
+2023,3,Australian Grand Prix,6,01:08:10.984,1,AllClear,03:54:06.995
+2023,3,Australian Grand Prix,7,01:13:10.543,2,Yellow,03:54:06.995
+2023,3,Australian Grand Prix,8,01:13:23.246,4,SCDeployed,03:54:06.995
+2023,3,Australian Grand Prix,9,01:16:01.056,5,Red,03:54:06.995
+2023,3,Australian Grand Prix,10,01:31:41.671,1,AllClear,03:54:06.995
+2023,3,Australian Grand Prix,11,01:47:34.722,6,VSCDeployed,03:54:06.995
+2023,3,Australian Grand Prix,12,01:49:37.049,7,VSCEnding,03:54:06.995
+2023,3,Australian Grand Prix,13,01:49:51.267,1,AllClear,03:54:06.995
+2023,3,Australian Grand Prix,14,02:36:29.985,2,Yellow,03:54:06.995
+2023,3,Australian Grand Prix,15,02:36:38.329,1,AllClear,03:54:06.995
+2023,3,Australian Grand Prix,16,02:37:30.688,4,SCDeployed,03:54:06.995
+2023,3,Australian Grand Prix,17,02:40:06.264,5,Red,03:54:06.995
+2023,3,Australian Grand Prix,18,02:50:08.585,1,AllClear,03:54:06.995
+2023,3,Australian Grand Prix,19,02:59:13.048,2,Yellow,03:54:06.995
+2023,3,Australian Grand Prix,20,02:59:25.329,5,Red,03:54:06.995
+2023,3,Australian Grand Prix,21,03:22:14.751,1,AllClear,03:54:06.995
+2023,3,Australian Grand Prix,22,03:36:04.835,5,Red,03:54:06.995
+2023,4,Azerbaijan Grand Prix,0,00:00:00,1,AllClear,02:45:46.256
+2023,4,Azerbaijan Grand Prix,1,00:05:00.728,2,Yellow,02:45:46.256
+2023,4,Azerbaijan Grand Prix,2,00:05:07.931,1,AllClear,02:45:46.256
+2023,4,Azerbaijan Grand Prix,3,00:11:22.236,2,Yellow,02:45:46.256
+2023,4,Azerbaijan Grand Prix,4,00:12:05.735,1,AllClear,02:45:46.256
+2023,4,Azerbaijan Grand Prix,5,00:13:14.953,2,Yellow,02:45:46.256
+2023,4,Azerbaijan Grand Prix,6,00:13:29.625,1,AllClear,02:45:46.256
+2023,4,Azerbaijan Grand Prix,7,01:04:04.913,2,Yellow,02:45:46.256
+2023,4,Azerbaijan Grand Prix,8,01:04:22.382,1,AllClear,02:45:46.256
+2023,4,Azerbaijan Grand Prix,9,01:20:00.63,2,Yellow,02:45:46.256
+2023,4,Azerbaijan Grand Prix,10,01:20:08.13,1,AllClear,02:45:46.256
+2023,4,Azerbaijan Grand Prix,11,01:20:22.927,2,Yellow,02:45:46.256
+2023,4,Azerbaijan Grand Prix,12,01:21:22.441,4,SCDeployed,02:45:46.256
+2023,4,Azerbaijan Grand Prix,13,01:28:42.308,1,AllClear,02:45:46.256
+2023,4,Azerbaijan Grand Prix,14,01:34:43.021,2,Yellow,02:45:46.256
+2023,4,Azerbaijan Grand Prix,15,01:34:44.208,1,AllClear,02:45:46.256
+2023,4,Azerbaijan Grand Prix,16,02:31:24.334,2,Yellow,02:45:46.256
+2023,4,Azerbaijan Grand Prix,17,02:31:26.428,1,AllClear,02:45:46.256
+2023,5,Miami Grand Prix,0,00:00:00,1,AllClear,02:35:00.363
+2023,5,Miami Grand Prix,1,00:19:40.236,2,Yellow,02:35:00.363
+2023,5,Miami Grand Prix,2,00:19:43.236,1,AllClear,02:35:00.363
+2023,5,Miami Grand Prix,3,00:19:45.33,2,Yellow,02:35:00.363
+2023,5,Miami Grand Prix,4,00:19:48.345,1,AllClear,02:35:00.363
+2023,6,Monaco Grand Prix,0,00:00:00,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,1,00:06:38.603,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,2,00:06:52.259,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,3,00:19:51.886,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,4,00:22:06.399,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,5,01:02:41.403,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,6,01:02:43.872,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,7,01:16:53.044,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,8,01:17:50.246,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,9,01:20:09.353,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,10,01:20:19.681,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,11,02:13:43.686,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,12,02:13:50.999,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,13,02:13:52.358,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,14,02:14:27.67,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,15,02:14:34.107,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,16,02:15:46.465,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,17,02:15:49.637,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,18,02:15:54.371,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,19,02:19:08.462,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,20,02:19:24.555,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,21,02:20:09.367,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,22,02:20:22.585,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,23,02:22:10.974,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,24,02:22:48.864,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,25,02:24:31.143,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,26,02:24:43.94,1,AllClear,02:56:09.609
+2023,6,Monaco Grand Prix,27,02:37:00.864,2,Yellow,02:56:09.609
+2023,6,Monaco Grand Prix,28,02:37:31.864,1,AllClear,02:56:09.609
+2023,7,Spanish Grand Prix,0,00:00:00,1,AllClear,02:34:20.832
+2023,8,Canadian Grand Prix,0,00:00:00,1,AllClear,02:42:24.341
+2023,8,Canadian Grand Prix,1,00:20:20.945,2,Yellow,02:42:24.341
+2023,8,Canadian Grand Prix,2,00:21:55.974,1,AllClear,02:42:24.341
+2023,8,Canadian Grand Prix,3,00:24:40.94,2,Yellow,02:42:24.341
+2023,8,Canadian Grand Prix,4,00:24:49.143,1,AllClear,02:42:24.341
+2023,8,Canadian Grand Prix,5,01:10:47.938,2,Yellow,02:42:24.341
+2023,8,Canadian Grand Prix,6,01:11:28.125,6,VSCDeployed,02:42:24.341
+2023,8,Canadian Grand Prix,7,01:12:03.077,7,VSCEnding,02:42:24.341
+2023,8,Canadian Grand Prix,8,01:12:14.311,1,AllClear,02:42:24.341
+2023,8,Canadian Grand Prix,9,01:17:38.759,2,Yellow,02:42:24.341
+2023,8,Canadian Grand Prix,10,01:17:43.165,1,AllClear,02:42:24.341
+2023,8,Canadian Grand Prix,11,01:17:44.509,4,SCDeployed,02:42:24.341
+2023,8,Canadian Grand Prix,12,01:26:16.875,1,AllClear,02:42:24.341
+2023,8,Canadian Grand Prix,13,01:42:40.014,2,Yellow,02:42:24.341
+2023,8,Canadian Grand Prix,14,01:42:43.295,1,AllClear,02:42:24.341
+2023,8,Canadian Grand Prix,15,01:50:57.036,2,Yellow,02:42:24.341
+2023,8,Canadian Grand Prix,16,01:51:55.597,1,AllClear,02:42:24.341
+2023,9,Austrian Grand Prix,0,00:10:31.151,1,AllClear,02:32:13.607
+2023,9,Austrian Grand Prix,1,01:02:11.953,2,Yellow,02:32:13.607
+2023,9,Austrian Grand Prix,2,01:02:17.938,1,AllClear,02:32:13.607
+2023,9,Austrian Grand Prix,3,01:02:55.281,4,SCDeployed,02:32:13.607
+2023,9,Austrian Grand Prix,4,01:06:45.308,1,AllClear,02:32:13.607
+2023,9,Austrian Grand Prix,5,01:18:35.546,2,Yellow,02:32:13.607
+2023,9,Austrian Grand Prix,6,01:19:51.372,6,VSCDeployed,02:32:13.607
+2023,9,Austrian Grand Prix,7,01:21:58.635,7,VSCEnding,02:32:13.607
+2023,9,Austrian Grand Prix,8,01:22:10.62,1,AllClear,02:32:13.607
+2023,10,British Grand Prix,0,00:11:02.039,1,AllClear,02:30:41.531
+2023,10,British Grand Prix,1,01:51:46.307,2,Yellow,02:30:41.531
+2023,10,British Grand Prix,2,01:51:52.838,6,VSCDeployed,02:30:41.531
+2023,10,British Grand Prix,3,01:53:16.633,4,SCDeployed,02:30:41.531
+2023,10,British Grand Prix,4,02:05:50.823,1,AllClear,02:30:41.531
+2023,11,Hungarian Grand Prix,0,00:00:00,1,AllClear,03:04:47.439
+2023,11,Hungarian Grand Prix,1,01:02:19.824,2,Yellow,03:04:47.439
+2023,11,Hungarian Grand Prix,2,01:02:28.793,1,AllClear,03:04:47.439
+2023,11,Hungarian Grand Prix,3,02:37:37.432,2,Yellow,03:04:47.439
+2023,11,Hungarian Grand Prix,4,02:37:44.791,1,AllClear,03:04:47.439
+2023,12,Belgian Grand Prix,0,00:00:00,2,Yellow,02:31:29.618
+2023,12,Belgian Grand Prix,1,00:05:56.684,1,AllClear,02:31:29.618
+2023,12,Belgian Grand Prix,2,00:28:36.184,2,Yellow,02:31:29.618
+2023,12,Belgian Grand Prix,3,00:29:50.105,1,AllClear,02:31:29.618
+2023,12,Belgian Grand Prix,4,00:51:13.731,2,Yellow,02:31:29.618
+2023,12,Belgian Grand Prix,5,00:51:35.715,1,AllClear,02:31:29.618
+2023,12,Belgian Grand Prix,6,01:05:29.425,2,Yellow,02:31:29.618
+2023,12,Belgian Grand Prix,7,01:07:05.236,1,AllClear,02:31:29.618
+2023,12,Belgian Grand Prix,8,01:07:18.799,2,Yellow,02:31:29.618
+2023,12,Belgian Grand Prix,9,01:07:25.111,1,AllClear,02:31:29.618
+2023,12,Belgian Grand Prix,10,02:25:23.966,2,Yellow,02:31:29.618
+2023,13,Dutch Grand Prix,0,00:00:00,1,AllClear,03:38:10.903
+2023,13,Dutch Grand Prix,1,00:20:00.958,2,Yellow,03:38:10.903
+2023,13,Dutch Grand Prix,2,00:20:03.458,1,AllClear,03:38:10.903
+2023,13,Dutch Grand Prix,3,00:20:21.176,2,Yellow,03:38:10.903
+2023,13,Dutch Grand Prix,4,00:20:32.692,1,AllClear,03:38:10.903
+2023,13,Dutch Grand Prix,5,01:24:24.561,2,Yellow,03:38:10.903
+2023,13,Dutch Grand Prix,6,01:25:04.107,4,SCDeployed,03:38:10.903
+2023,13,Dutch Grand Prix,7,01:35:18.487,1,AllClear,03:38:10.903
+2023,13,Dutch Grand Prix,8,02:28:22.821,2,Yellow,03:38:10.903
+2023,13,Dutch Grand Prix,9,02:28:30.133,1,AllClear,03:38:10.903
+2023,13,Dutch Grand Prix,10,02:29:10.289,2,Yellow,03:38:10.903
+2023,13,Dutch Grand Prix,11,02:29:28.507,6,VSCDeployed,03:38:10.903
+2023,13,Dutch Grand Prix,12,02:30:15.725,5,Red,03:38:10.903
+2023,13,Dutch Grand Prix,13,03:09:38.621,1,AllClear,03:38:10.903
+2023,13,Dutch Grand Prix,14,03:13:13.226,4,SCDeployed,03:38:10.903
+2023,13,Dutch Grand Prix,15,03:17:43.893,1,AllClear,03:38:10.903
+2023,14,Italian Grand Prix,0,00:01:52.215,1,AllClear,02:43:21.312
+2023,14,Italian Grand Prix,1,01:02:38.176,2,Yellow,02:43:21.312
+2023,14,Italian Grand Prix,2,01:12:00.217,1,AllClear,02:43:21.312
+2023,15,Singapore Grand Prix,0,00:00:00,1,AllClear,02:57:01.132
+2023,15,Singapore Grand Prix,1,01:04:20.881,2,Yellow,02:57:01.132
+2023,15,Singapore Grand Prix,2,01:04:26.069,1,AllClear,02:57:01.132
+2023,15,Singapore Grand Prix,3,01:04:37.49,2,Yellow,02:57:01.132
+2023,15,Singapore Grand Prix,4,01:04:55.006,1,AllClear,02:57:01.132
+2023,15,Singapore Grand Prix,5,01:34:03.392,2,Yellow,02:57:01.132
+2023,15,Singapore Grand Prix,6,01:34:23.252,1,AllClear,02:57:01.132
+2023,15,Singapore Grand Prix,7,01:35:40.282,4,SCDeployed,02:57:01.132
+2023,15,Singapore Grand Prix,8,01:41:49.293,1,AllClear,02:57:01.132
+2023,15,Singapore Grand Prix,9,02:16:10.019,2,Yellow,02:57:01.132
+2023,15,Singapore Grand Prix,10,02:17:05.534,6,VSCDeployed,02:57:01.132
+2023,15,Singapore Grand Prix,11,02:20:29.032,7,VSCEnding,02:57:01.132
+2023,15,Singapore Grand Prix,12,02:20:43.673,1,AllClear,02:57:01.132
+2023,15,Singapore Grand Prix,13,02:23:46.874,2,Yellow,02:57:01.132
+2023,15,Singapore Grand Prix,14,02:24:02.795,1,AllClear,02:57:01.132
+2023,15,Singapore Grand Prix,15,02:33:41.851,2,Yellow,02:57:01.132
+2023,15,Singapore Grand Prix,16,02:33:44.273,1,AllClear,02:57:01.132
+2023,15,Singapore Grand Prix,17,02:43:05.72,2,Yellow,02:57:01.132
+2023,15,Singapore Grand Prix,18,02:43:26.282,1,AllClear,02:57:01.132
+2023,15,Singapore Grand Prix,19,02:48:37.888,2,Yellow,02:57:01.132
+2023,16,Japanese Grand Prix,0,00:00:47.74,1,AllClear,02:38:01.806
+2023,16,Japanese Grand Prix,1,01:03:30.609,2,Yellow,02:38:01.806
+2023,16,Japanese Grand Prix,2,01:03:36.406,1,AllClear,02:38:01.806
+2023,16,Japanese Grand Prix,3,01:04:16.546,4,SCDeployed,02:38:01.806
+2023,16,Japanese Grand Prix,4,01:12:55.099,1,AllClear,02:38:01.806
+2023,16,Japanese Grand Prix,5,01:26:14.398,2,Yellow,02:38:01.806
+2023,16,Japanese Grand Prix,6,01:26:33.71,1,AllClear,02:38:01.806
+2023,16,Japanese Grand Prix,7,01:28:32.895,6,VSCDeployed,02:38:01.806
+2023,16,Japanese Grand Prix,8,01:29:34.785,7,VSCEnding,02:38:01.806
+2023,16,Japanese Grand Prix,9,01:29:49.738,1,AllClear,02:38:01.806
+2023,16,Japanese Grand Prix,10,02:37:07.447,2,Yellow,02:38:01.806
+2023,16,Japanese Grand Prix,11,02:37:32.635,1,AllClear,02:38:01.806
+2023,17,Qatar Grand Prix,0,00:11:33.566,1,AllClear,02:38:53.706
+2023,17,Qatar Grand Prix,1,01:02:48.255,2,Yellow,02:38:53.706
+2023,17,Qatar Grand Prix,2,01:03:42.88,4,SCDeployed,02:38:53.706
+2023,17,Qatar Grand Prix,3,01:11:23.546,1,AllClear,02:38:53.706
+2023,17,Qatar Grand Prix,4,01:54:35.955,2,Yellow,02:38:53.706
+2023,17,Qatar Grand Prix,5,01:54:38.877,1,AllClear,02:38:53.706
+2023,17,Qatar Grand Prix,6,02:06:29.759,2,Yellow,02:38:53.706
+2023,17,Qatar Grand Prix,7,02:06:32.791,1,AllClear,02:38:53.706
+2023,18,United States Grand Prix,0,00:00:00,1,AllClear,02:48:40.088
+2023,18,United States Grand Prix,1,00:29:09.831,2,Yellow,02:48:40.088
+2023,18,United States Grand Prix,2,00:29:12.018,1,AllClear,02:48:40.088
+2023,18,United States Grand Prix,3,00:29:22.393,2,Yellow,02:48:40.088
+2023,18,United States Grand Prix,4,00:29:25.128,1,AllClear,02:48:40.088
+2023,18,United States Grand Prix,5,02:38:47.911,2,Yellow,02:48:40.088
+2023,18,United States Grand Prix,6,02:38:49.551,1,AllClear,02:48:40.088
+2023,19,Mexico City Grand Prix,0,00:00:00,2,Yellow,03:10:21.45
+2023,19,Mexico City Grand Prix,1,00:07:53.47,1,AllClear,03:10:21.45
+2023,19,Mexico City Grand Prix,2,00:21:05.41,2,Yellow,03:10:21.45
+2023,19,Mexico City Grand Prix,3,00:35:24.238,1,AllClear,03:10:21.45
+2023,19,Mexico City Grand Prix,4,01:02:36.381,2,Yellow,03:10:21.45
+2023,19,Mexico City Grand Prix,5,01:02:47.162,1,AllClear,03:10:21.45
+2023,19,Mexico City Grand Prix,6,01:08:04.985,6,VSCDeployed,03:10:21.45
+2023,19,Mexico City Grand Prix,7,01:09:21.515,7,VSCEnding,03:10:21.45
+2023,19,Mexico City Grand Prix,8,01:09:34.046,1,AllClear,03:10:21.45
+2023,19,Mexico City Grand Prix,9,01:13:02.902,2,Yellow,03:10:21.45
+2023,19,Mexico City Grand Prix,10,01:13:03.933,1,AllClear,03:10:21.45
+2023,19,Mexico City Grand Prix,11,01:48:03.943,2,Yellow,03:10:21.45
+2023,19,Mexico City Grand Prix,12,01:48:23.927,4,SCDeployed,03:10:21.45
+2023,19,Mexico City Grand Prix,13,01:50:53.065,5,Red,03:10:21.45
+2023,19,Mexico City Grand Prix,14,02:06:42.923,1,AllClear,03:10:21.45
+2023,19,Mexico City Grand Prix,15,02:12:19.214,4,SCDeployed,03:10:21.45
+2023,19,Mexico City Grand Prix,16,02:13:48.634,1,AllClear,03:10:21.45
+2023,19,Mexico City Grand Prix,17,02:33:53.613,2,Yellow,03:10:21.45
+2023,19,Mexico City Grand Prix,18,02:34:08.394,1,AllClear,03:10:21.45
+2023,19,Mexico City Grand Prix,19,02:58:56.009,2,Yellow,03:10:21.45
+2023,19,Mexico City Grand Prix,20,02:59:07.259,1,AllClear,03:10:21.45
+2023,20,São Paulo Grand Prix,0,00:00:00,1,AllClear,03:03:12.846
+2023,20,São Paulo Grand Prix,1,01:00:00.637,2,Yellow,03:03:12.846
+2023,20,São Paulo Grand Prix,2,01:00:13.856,1,AllClear,03:03:12.846
+2023,20,São Paulo Grand Prix,3,01:00:14.2,2,Yellow,03:03:12.846
+2023,20,São Paulo Grand Prix,4,01:00:46.199,1,AllClear,03:03:12.846
+2023,20,São Paulo Grand Prix,5,01:01:00.34,2,Yellow,03:03:12.846
+2023,20,São Paulo Grand Prix,6,01:01:15.23,1,AllClear,03:03:12.846
+2023,20,São Paulo Grand Prix,7,01:02:32.198,2,Yellow,03:03:12.846
+2023,20,São Paulo Grand Prix,8,01:02:50.182,4,SCDeployed,03:03:12.846
+2023,20,São Paulo Grand Prix,9,01:05:35.568,5,Red,03:03:12.846
+2023,20,São Paulo Grand Prix,10,01:26:51.553,1,AllClear,03:03:12.846
+2023,21,Las Vegas Grand Prix,0,00:00:00,1,AllClear,01:52:01.282
+2023,21,Las Vegas Grand Prix,1,00:14:15.761,2,Yellow,01:52:01.282
+2023,21,Las Vegas Grand Prix,2,00:14:20.652,1,AllClear,01:52:01.282
+2023,21,Las Vegas Grand Prix,3,00:14:29.183,2,Yellow,01:52:01.282
+2023,21,Las Vegas Grand Prix,4,00:14:38.12,1,AllClear,01:52:01.282
+2023,21,Las Vegas Grand Prix,5,00:15:46.666,6,VSCDeployed,01:52:01.282
+2023,21,Las Vegas Grand Prix,6,00:17:43.867,7,VSCEnding,01:52:01.282
+2023,21,Las Vegas Grand Prix,7,00:17:55.538,1,AllClear,01:52:01.282
+2023,21,Las Vegas Grand Prix,8,00:19:15.771,2,Yellow,01:52:01.282
+2023,21,Las Vegas Grand Prix,9,00:19:24.896,4,SCDeployed,01:52:01.282
+2023,21,Las Vegas Grand Prix,10,00:27:55.262,1,AllClear,01:52:01.282
+2023,21,Las Vegas Grand Prix,11,00:40:55.53,2,Yellow,01:52:01.282
+2023,21,Las Vegas Grand Prix,12,00:40:56.67,1,AllClear,01:52:01.282
+2023,21,Las Vegas Grand Prix,13,00:50:52.519,2,Yellow,01:52:01.282
+2023,21,Las Vegas Grand Prix,14,00:50:54.691,1,AllClear,01:52:01.282
+2023,21,Las Vegas Grand Prix,15,01:01:22.07,4,SCDeployed,01:52:01.282
+2023,21,Las Vegas Grand Prix,16,01:07:14.721,1,AllClear,01:52:01.282
+2023,21,Las Vegas Grand Prix,17,01:26:32.481,2,Yellow,01:52:01.282
+2023,21,Las Vegas Grand Prix,18,01:26:34.184,1,AllClear,01:52:01.282
+2023,21,Las Vegas Grand Prix,19,01:37:12.986,2,Yellow,01:52:01.282
+2023,21,Las Vegas Grand Prix,20,01:37:20.361,1,AllClear,01:52:01.282
+2023,21,Las Vegas Grand Prix,21,01:39:39.077,2,Yellow,01:52:01.282
+2023,21,Las Vegas Grand Prix,22,01:39:48.061,1,AllClear,01:52:01.282
+2023,21,Las Vegas Grand Prix,23,01:44:40.681,2,Yellow,01:52:01.282
+2023,22,Abu Dhabi Grand Prix,0,00:13:17.86,1,AllClear,02:39:41.203
+2023,22,Abu Dhabi Grand Prix,1,00:22:34.031,2,Yellow,02:39:41.203
+2023,22,Abu Dhabi Grand Prix,2,00:22:36.594,1,AllClear,02:39:41.203
+2024,1,Bahrain Grand Prix,0,00:10:06.01,1,AllClear,02:36:15.245
+2024,1,Bahrain Grand Prix,1,01:00:16.4,2,Yellow,02:36:15.245
+2024,1,Bahrain Grand Prix,2,01:00:20.89,1,AllClear,02:36:15.245
+2024,1,Bahrain Grand Prix,3,01:00:46.461,2,Yellow,02:36:15.245
+2024,1,Bahrain Grand Prix,4,01:00:53.481,1,AllClear,02:36:15.245
+2024,1,Bahrain Grand Prix,5,01:15:24.819,2,Yellow,02:36:15.245
+2024,1,Bahrain Grand Prix,6,01:16:15.962,1,AllClear,02:36:15.245
+2024,2,Saudi Arabian Grand Prix,0,00:00:00,2,Yellow,02:25:11.339
+2024,2,Saudi Arabian Grand Prix,1,00:08:45.692,1,AllClear,02:25:11.339
+2024,2,Saudi Arabian Grand Prix,2,01:09:15.917,2,Yellow,02:25:11.339
+2024,2,Saudi Arabian Grand Prix,3,01:09:49.924,4,SCDeployed,02:25:11.339
+2024,2,Saudi Arabian Grand Prix,4,01:16:35.527,1,AllClear,02:25:11.339
+2024,3,Australian Grand Prix,0,00:00:00,1,AllClear,02:38:17.18
+2024,3,Australian Grand Prix,1,00:00:13.56,2,Yellow,02:38:17.18
+2024,3,Australian Grand Prix,2,00:05:52.01,1,AllClear,02:38:17.18
+2024,3,Australian Grand Prix,3,01:21:24.717,2,Yellow,02:38:17.18
+2024,3,Australian Grand Prix,4,01:21:41.517,6,VSCDeployed,02:38:17.18
+2024,3,Australian Grand Prix,5,01:22:45.787,7,VSCEnding,02:38:17.18
+2024,3,Australian Grand Prix,6,01:23:00.69,1,AllClear,02:38:17.18
+2024,3,Australian Grand Prix,7,02:17:08.699,2,Yellow,02:38:17.18
+2024,3,Australian Grand Prix,8,02:17:19.578,6,VSCDeployed,02:38:17.18
+2024,4,Japanese Grand Prix,0,00:02:10.211,1,AllClear,03:01:21.531
+2024,4,Japanese Grand Prix,1,01:03:04.009,2,Yellow,03:01:21.531
+2024,4,Japanese Grand Prix,2,01:03:23.324,5,Red,03:01:21.531
+2024,4,Japanese Grand Prix,3,01:21:29.956,1,AllClear,03:01:21.531
+2024,4,Japanese Grand Prix,4,02:38:44.466,2,Yellow,03:01:21.531
+2024,4,Japanese Grand Prix,5,02:39:26.728,1,AllClear,03:01:21.531
+2024,5,Chinese Grand Prix,0,00:00:00,2,Yellow,02:45:28.894
+2024,5,Chinese Grand Prix,1,00:03:43.861,1,AllClear,02:45:28.894
+2024,5,Chinese Grand Prix,2,01:29:21.06,2,Yellow,02:45:28.894
+2024,5,Chinese Grand Prix,3,01:30:57.31,6,VSCDeployed,02:45:28.894
+2024,5,Chinese Grand Prix,4,01:35:02.945,4,SCDeployed,02:45:28.894
+2024,5,Chinese Grand Prix,5,01:42:46.489,1,AllClear,02:45:28.894
+2024,5,Chinese Grand Prix,6,01:44:08.986,2,Yellow,02:45:28.894
+2024,5,Chinese Grand Prix,7,01:44:43.584,4,SCDeployed,02:45:28.894
+2024,5,Chinese Grand Prix,8,01:54:29.62,1,AllClear,02:45:28.894
+2024,6,Miami Grand Prix,0,00:00:00,1,AllClear,02:29:41.914
+2024,6,Miami Grand Prix,1,01:30:16.624,6,VSCDeployed,02:29:41.914
+2024,6,Miami Grand Prix,2,01:30:57.133,7,VSCEnding,02:29:41.914
+2024,6,Miami Grand Prix,3,01:31:08.221,1,AllClear,02:29:41.914
+2024,6,Miami Grand Prix,4,01:38:59.677,2,Yellow,02:29:41.914
+2024,6,Miami Grand Prix,5,01:39:25.207,4,SCDeployed,02:29:41.914
+2024,6,Miami Grand Prix,6,01:48:20.615,1,AllClear,02:29:41.914
+2024,7,Emilia Romagna Grand Prix,0,00:14:54.798,1,AllClear,02:23:23.79
+2024,7,Emilia Romagna Grand Prix,1,00:25:18.219,2,Yellow,02:23:23.79
+2024,7,Emilia Romagna Grand Prix,2,00:25:20.767,1,AllClear,02:23:23.79
+2024,7,Emilia Romagna Grand Prix,3,00:25:24.863,2,Yellow,02:23:23.79
+2024,7,Emilia Romagna Grand Prix,4,00:25:28.047,1,AllClear,02:23:23.79
+2024,7,Emilia Romagna Grand Prix,5,00:26:02.94,2,Yellow,02:23:23.79
+2024,7,Emilia Romagna Grand Prix,6,00:26:05.527,1,AllClear,02:23:23.79
+2024,8,Monaco Grand Prix,0,00:00:48.957,1,AllClear,03:20:14.171
+2024,8,Monaco Grand Prix,1,00:23:00.042,2,Yellow,03:20:14.171
+2024,8,Monaco Grand Prix,2,00:23:28.942,1,AllClear,03:20:14.171
+2024,8,Monaco Grand Prix,3,00:34:01.046,2,Yellow,03:20:14.171
+2024,8,Monaco Grand Prix,4,00:34:55.313,1,AllClear,03:20:14.171
+2024,8,Monaco Grand Prix,5,00:55:30.229,2,Yellow,03:20:14.171
+2024,8,Monaco Grand Prix,6,00:56:02.453,5,Red,03:20:14.171
+2024,8,Monaco Grand Prix,7,01:27:38.765,1,AllClear,03:20:14.171
+2024,8,Monaco Grand Prix,8,01:28:21.354,2,Yellow,03:20:14.171
+2024,8,Monaco Grand Prix,9,01:28:46.158,1,AllClear,03:20:14.171
+2024,8,Monaco Grand Prix,10,01:30:17.702,2,Yellow,03:20:14.171
+2024,8,Monaco Grand Prix,11,01:31:21.633,1,AllClear,03:20:14.171
+2024,8,Monaco Grand Prix,12,01:35:56.551,4,SCDeployed,03:20:14.171
+2024,8,Monaco Grand Prix,13,01:37:45.833,1,AllClear,03:20:14.171
+2024,8,Monaco Grand Prix,14,02:45:26.441,2,Yellow,03:20:14.171
+2024,8,Monaco Grand Prix,15,02:45:31.016,1,AllClear,03:20:14.171
+2024,9,Canadian Grand Prix,0,00:00:00,1,AllClear,01:52:10.516
+2024,9,Canadian Grand Prix,1,00:04:30.268,2,Yellow,01:52:10.516
+2024,9,Canadian Grand Prix,2,00:04:32.269,1,AllClear,01:52:10.516
+2024,9,Canadian Grand Prix,3,00:13:19.675,2,Yellow,01:52:10.516
+2024,9,Canadian Grand Prix,4,00:13:40.888,1,AllClear,01:52:10.516
+2024,9,Canadian Grand Prix,5,00:40:35.477,2,Yellow,01:52:10.516
+2024,9,Canadian Grand Prix,6,00:41:20.356,4,SCDeployed,01:52:10.516
+2024,9,Canadian Grand Prix,7,00:49:59.274,1,AllClear,01:52:10.516
+2024,9,Canadian Grand Prix,8,00:50:05.548,2,Yellow,01:52:10.516
+2024,9,Canadian Grand Prix,9,00:50:14.904,1,AllClear,01:52:10.516
+2024,9,Canadian Grand Prix,10,01:07:31.649,2,Yellow,01:52:10.516
+2024,9,Canadian Grand Prix,11,01:07:35.151,1,AllClear,01:52:10.516
+2024,9,Canadian Grand Prix,12,01:18:38.469,2,Yellow,01:52:10.516
+2024,9,Canadian Grand Prix,13,01:18:41.982,1,AllClear,01:52:10.516
+2024,9,Canadian Grand Prix,14,01:23:05.534,2,Yellow,01:52:10.516
+2024,9,Canadian Grand Prix,15,01:23:12.173,1,AllClear,01:52:10.516
+2024,9,Canadian Grand Prix,16,01:24:23.842,2,Yellow,01:52:10.516
+2024,9,Canadian Grand Prix,17,01:24:53.375,4,SCDeployed,01:52:10.516
+2024,9,Canadian Grand Prix,18,01:34:00.072,1,AllClear,01:52:10.516
+2024,9,Canadian Grand Prix,19,01:44:40.368,2,Yellow,01:52:10.516
+2024,9,Canadian Grand Prix,20,01:45:04.574,1,AllClear,01:52:10.516
+2024,10,Spanish Grand Prix,0,00:00:00,2,Yellow,02:33:41.969
+2024,10,Spanish Grand Prix,1,00:10:00.895,1,AllClear,02:33:41.969
+2024,11,Austrian Grand Prix,0,00:09:41.493,1,AllClear,02:23:58.151
+2024,11,Austrian Grand Prix,1,02:10:27.621,2,Yellow,02:23:58.151
+2024,11,Austrian Grand Prix,2,02:10:31.114,1,AllClear,02:23:58.151
+2024,11,Austrian Grand Prix,3,02:12:52.483,6,VSCDeployed,02:23:58.151
+2024,11,Austrian Grand Prix,4,02:13:38.25,7,VSCEnding,02:23:58.151
+2024,11,Austrian Grand Prix,5,02:13:50.429,1,AllClear,02:23:58.151
+2024,12,British Grand Prix,0,00:06:27.196,1,AllClear,02:26:33.38
+2024,13,Hungarian Grand Prix,0,00:06:31.179,1,AllClear,02:35:45.595
+2024,13,Hungarian Grand Prix,1,02:22:30.594,2,Yellow,02:35:45.595
+2024,13,Hungarian Grand Prix,2,02:22:34.774,1,AllClear,02:35:45.595
+2024,14,Belgian Grand Prix,0,00:00:00,2,Yellow,02:17:07.716
+2024,14,Belgian Grand Prix,1,00:03:45.413,1,AllClear,02:17:07.716
+2024,14,Belgian Grand Prix,2,01:22:18.736,2,Yellow,02:17:07.716
+2024,14,Belgian Grand Prix,3,01:22:20.2,1,AllClear,02:17:07.716
+2024,15,Dutch Grand Prix,0,00:00:00,1,AllClear,02:32:46.579
+2024,15,Dutch Grand Prix,1,00:14:41.553,2,Yellow,02:32:46.579
+2024,15,Dutch Grand Prix,2,00:24:08.672,1,AllClear,02:32:46.579
+2024,16,Italian Grand Prix,0,00:13:12.826,1,AllClear,02:12:50.731
+2024,17,Azerbaijan Grand Prix,0,00:13:39.841,2,Yellow,02:52:07.86
+2024,17,Azerbaijan Grand Prix,1,00:13:39.841,1,AllClear,02:52:07.86
+2024,17,Azerbaijan Grand Prix,2,00:13:39.841,2,Yellow,02:52:07.86
+2024,17,Azerbaijan Grand Prix,3,00:13:39.841,1,AllClear,02:52:07.86
+2024,17,Azerbaijan Grand Prix,4,00:13:39.841,2,Yellow,02:52:07.86
+2024,17,Azerbaijan Grand Prix,5,00:13:39.841,1,AllClear,02:52:07.86
+2024,17,Azerbaijan Grand Prix,6,00:13:39.841,2,Yellow,02:52:07.86
+2024,17,Azerbaijan Grand Prix,7,00:13:39.841,1,AllClear,02:52:07.86
+2024,17,Azerbaijan Grand Prix,8,00:19:07.406,2,Yellow,02:52:07.86
+2024,17,Azerbaijan Grand Prix,9,00:19:13.571,1,AllClear,02:52:07.86
+2024,17,Azerbaijan Grand Prix,10,00:27:07.476,2,Yellow,02:52:07.86
+2024,17,Azerbaijan Grand Prix,11,00:27:11.287,1,AllClear,02:52:07.86
+2024,17,Azerbaijan Grand Prix,12,00:27:15.331,2,Yellow,02:52:07.86
+2024,17,Azerbaijan Grand Prix,13,00:27:19.546,1,AllClear,02:52:07.86
+2024,17,Azerbaijan Grand Prix,14,00:54:14.046,2,Yellow,02:52:07.86
+2024,17,Azerbaijan Grand Prix,15,00:54:16.527,1,AllClear,02:52:07.86
+2024,17,Azerbaijan Grand Prix,16,02:01:09.639,2,Yellow,02:52:07.86
+2024,17,Azerbaijan Grand Prix,17,02:01:14.191,1,AllClear,02:52:07.86
+2024,17,Azerbaijan Grand Prix,18,02:25:25.496,2,Yellow,02:52:07.86
+2024,17,Azerbaijan Grand Prix,19,02:26:42.569,6,VSCDeployed,02:52:07.86
+2024,18,Singapore Grand Prix,0,00:00:00,2,Yellow,02:40:31.731
+2024,18,Singapore Grand Prix,1,00:00:03.251,1,AllClear,02:40:31.731
+2024,18,Singapore Grand Prix,2,00:00:09.253,2,Yellow,02:40:31.731
+2024,18,Singapore Grand Prix,3,00:00:25.453,1,AllClear,02:40:31.731
+2024,19,United States Grand Prix,0,00:00:00,2,Yellow,02:35:28.947
+2024,19,United States Grand Prix,1,00:08:58.393,1,AllClear,02:35:28.947
+2024,19,United States Grand Prix,2,00:57:27.032,2,Yellow,02:35:28.947
+2024,19,United States Grand Prix,3,00:57:38.513,1,AllClear,02:35:28.947
+2024,19,United States Grand Prix,4,01:00:35.112,2,Yellow,02:35:28.947
+2024,19,United States Grand Prix,5,01:01:28.409,4,SCDeployed,02:35:28.947
+2024,19,United States Grand Prix,6,01:07:40.524,1,AllClear,02:35:28.947
+2024,19,United States Grand Prix,7,01:15:02.847,2,Yellow,02:35:28.947
+2024,19,United States Grand Prix,8,01:15:07.47,1,AllClear,02:35:28.947
+2024,19,United States Grand Prix,9,02:07:29.886,2,Yellow,02:35:28.947
+2024,19,United States Grand Prix,10,02:07:38.51,1,AllClear,02:35:28.947
+2024,20,Mexico City Grand Prix,0,00:00:00,2,Yellow,02:47:09.852
+2024,20,Mexico City Grand Prix,1,00:00:22.917,1,AllClear,02:47:09.852
+2024,20,Mexico City Grand Prix,2,00:23:31.553,2,Yellow,02:47:09.852
+2024,20,Mexico City Grand Prix,3,00:39:27.571,1,AllClear,02:47:09.852
+2024,20,Mexico City Grand Prix,4,00:56:20.86,2,Yellow,02:47:09.852
+2024,20,Mexico City Grand Prix,5,00:56:58.362,4,SCDeployed,02:47:09.852
+2024,20,Mexico City Grand Prix,6,01:08:29.689,1,AllClear,02:47:09.852
+2024,21,São Paulo Grand Prix,0,00:00:00,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,1,00:52:58.758,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,2,00:58:32.359,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,3,01:13:10.258,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,4,01:13:19.484,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,5,01:17:25.352,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,6,01:17:28.803,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,7,01:27:37.971,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,8,01:27:48.625,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,9,01:47:45.888,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,10,01:47:49.81,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,11,01:49:38.987,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,12,01:50:18.848,6,VSCDeployed,03:20:53.607
+2024,21,São Paulo Grand Prix,13,01:51:47.994,7,VSCEnding,03:20:53.607
+2024,21,São Paulo Grand Prix,14,01:52:01.71,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,15,01:54:50.2,4,SCDeployed,03:20:53.607
+2024,21,São Paulo Grand Prix,16,01:59:19.333,5,Red,03:20:53.607
+2024,21,São Paulo Grand Prix,17,02:23:12.325,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,18,02:26:20.605,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,19,02:26:38.296,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,20,02:30:40.572,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,21,02:30:58.358,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,22,02:32:55.981,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,23,02:33:04.122,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,24,02:35:08.379,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,25,02:35:12.045,4,SCDeployed,03:20:53.607
+2024,21,São Paulo Grand Prix,26,02:41:26.301,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,27,02:43:14.9,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,28,02:43:36.771,1,AllClear,03:20:53.607
+2024,21,São Paulo Grand Prix,29,02:54:27.095,2,Yellow,03:20:53.607
+2024,21,São Paulo Grand Prix,30,02:54:32.696,1,AllClear,03:20:53.607
+2024,22,Las Vegas Grand Prix,0,00:00:00,2,Yellow,02:23:22.53
+2024,22,Las Vegas Grand Prix,1,00:04:43.802,1,AllClear,02:23:22.53
+2024,22,Las Vegas Grand Prix,2,02:22:12.269,2,Yellow,02:23:22.53
+2024,23,Qatar Grand Prix,0,00:05:37.763,1,AllClear,02:34:48.211
+2024,23,Qatar Grand Prix,1,00:55:07.112,2,Yellow,02:34:48.211
+2024,23,Qatar Grand Prix,2,00:55:49.928,4,SCDeployed,02:34:48.211
+2024,23,Qatar Grand Prix,3,01:03:27.53,1,AllClear,02:34:48.211
+2024,23,Qatar Grand Prix,4,01:04:12.481,2,Yellow,02:34:48.211
+2024,23,Qatar Grand Prix,5,01:04:19.563,1,AllClear,02:34:48.211
+2024,23,Qatar Grand Prix,6,01:39:34.892,2,Yellow,02:34:48.211
+2024,23,Qatar Grand Prix,7,01:39:41.487,1,AllClear,02:34:48.211
+2024,23,Qatar Grand Prix,8,01:39:42.909,2,Yellow,02:34:48.211
+2024,23,Qatar Grand Prix,9,01:39:45.014,1,AllClear,02:34:48.211
+2024,23,Qatar Grand Prix,10,01:39:46.486,2,Yellow,02:34:48.211
+2024,23,Qatar Grand Prix,11,01:39:49.144,1,AllClear,02:34:48.211
+2024,23,Qatar Grand Prix,12,01:39:50.486,2,Yellow,02:34:48.211
+2024,23,Qatar Grand Prix,13,01:39:53.42,1,AllClear,02:34:48.211
+2024,23,Qatar Grand Prix,14,01:39:54.499,2,Yellow,02:34:48.211
+2024,23,Qatar Grand Prix,15,01:39:54.956,1,AllClear,02:34:48.211
+2024,23,Qatar Grand Prix,16,01:47:48.919,4,SCDeployed,02:34:48.211
+2024,23,Qatar Grand Prix,17,01:58:24.733,1,AllClear,02:34:48.211
+2024,23,Qatar Grand Prix,18,01:59:16.11,2,Yellow,02:34:48.211
+2024,23,Qatar Grand Prix,19,01:59:20.165,1,AllClear,02:34:48.211
+2024,23,Qatar Grand Prix,20,01:59:26.82,2,Yellow,02:34:48.211
+2024,23,Qatar Grand Prix,21,01:59:41.027,6,VSCDeployed,02:34:48.211
+2024,23,Qatar Grand Prix,22,02:00:00.846,4,SCDeployed,02:34:48.211
+2024,23,Qatar Grand Prix,23,02:04:44.681,1,AllClear,02:34:48.211
+2024,24,Abu Dhabi Grand Prix,0,00:00:00,1,AllClear,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,1,00:57:38.172,2,Yellow,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,2,00:57:43.506,1,AllClear,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,3,00:58:28.274,2,Yellow,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,4,00:59:06.54,6,VSCDeployed,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,5,01:00:53.361,7,VSCEnding,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,6,01:01:03.708,1,AllClear,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,7,01:42:34.999,2,Yellow,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,8,01:42:38.5,1,AllClear,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,9,01:42:39.958,2,Yellow,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,10,01:42:46.076,1,AllClear,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,11,02:22:08.652,2,Yellow,02:45:07.435
+2024,24,Abu Dhabi Grand Prix,12,02:22:34.092,1,AllClear,02:45:07.435
+2025,1,Australian Grand Prix,0,00:00:24.491,1,AllClear,02:57:12.748
+2025,1,Australian Grand Prix,1,00:17:40.825,2,Yellow,02:57:12.748
+2025,1,Australian Grand Prix,2,00:17:45.814,1,AllClear,02:57:12.748
+2025,1,Australian Grand Prix,3,00:34:20.843,2,Yellow,02:57:12.748
+2025,1,Australian Grand Prix,4,00:35:54.306,1,AllClear,02:57:12.748
+2025,1,Australian Grand Prix,5,00:41:37.243,2,Yellow,02:57:12.748
+2025,1,Australian Grand Prix,6,00:42:24.684,1,AllClear,02:57:12.748
+2025,1,Australian Grand Prix,7,00:53:36.416,2,Yellow,02:57:12.748
+2025,1,Australian Grand Prix,8,00:57:54.535,1,AllClear,02:57:12.748
+2025,1,Australian Grand Prix,9,01:12:05.12,2,Yellow,02:57:12.748
+2025,1,Australian Grand Prix,10,01:12:08.954,4,SCDeployed,02:57:12.748
+2025,1,Australian Grand Prix,11,01:27:50.163,1,AllClear,02:57:12.748
+2025,1,Australian Grand Prix,12,02:07:26.655,2,Yellow,02:57:12.748
+2025,1,Australian Grand Prix,13,02:07:47.268,4,SCDeployed,02:57:12.748
+2025,1,Australian Grand Prix,14,02:25:02.727,1,AllClear,02:57:12.748
+2025,1,Australian Grand Prix,15,02:29:25.516,2,Yellow,02:57:12.748
+2025,1,Australian Grand Prix,16,02:30:51.142,1,AllClear,02:57:12.748
+2025,1,Australian Grand Prix,17,02:33:14.868,2,Yellow,02:57:12.748
+2025,1,Australian Grand Prix,18,02:33:43.734,4,SCDeployed,02:57:12.748
+2025,1,Australian Grand Prix,19,02:43:55.069,1,AllClear,02:57:12.748
+2025,2,Chinese Grand Prix,0,00:00:00,2,Yellow,02:34:03.467
+2025,2,Chinese Grand Prix,1,00:04:24.487,1,AllClear,02:34:03.467
+2025,2,Chinese Grand Prix,2,00:28:03.697,2,Yellow,02:34:03.467
+2025,2,Chinese Grand Prix,3,00:30:23.766,1,AllClear,02:34:03.467
+2025,2,Chinese Grand Prix,4,00:59:54.203,2,Yellow,02:34:03.467
+2025,2,Chinese Grand Prix,5,01:00:06.116,1,AllClear,02:34:03.467
+2025,2,Chinese Grand Prix,6,01:00:07.114,2,Yellow,02:34:03.467
+2025,2,Chinese Grand Prix,7,01:00:10.638,1,AllClear,02:34:03.467
+2025,2,Chinese Grand Prix,8,01:00:13.33,2,Yellow,02:34:03.467
+2025,2,Chinese Grand Prix,9,01:00:15.411,1,AllClear,02:34:03.467
+2025,2,Chinese Grand Prix,10,01:02:24.512,2,Yellow,02:34:03.467
+2025,2,Chinese Grand Prix,11,01:02:50.712,1,AllClear,02:34:03.467
+2025,2,Chinese Grand Prix,12,01:08:27.286,2,Yellow,02:34:03.467
+2025,2,Chinese Grand Prix,13,01:08:33.507,1,AllClear,02:34:03.467
+2025,3,Japanese Grand Prix,0,00:00:00,1,AllClear,02:21:35.802
+2025,4,Bahrain Grand Prix,0,00:00:00,1,AllClear,02:45:13.997
+2025,4,Bahrain Grand Prix,1,01:47:55.16,4,SCDeployed,02:45:13.997
+2025,4,Bahrain Grand Prix,2,01:55:40.811,1,AllClear,02:45:13.997
+2025,5,Saudi Arabian Grand Prix,0,00:00:08.569,1,AllClear,02:21:30.361
+2025,5,Saudi Arabian Grand Prix,1,00:57:26.539,2,Yellow,02:21:30.361
+2025,5,Saudi Arabian Grand Prix,2,00:58:03.483,4,SCDeployed,02:21:30.361
+2025,5,Saudi Arabian Grand Prix,3,01:04:07.987,1,AllClear,02:21:30.361
+2025,6,Miami Grand Prix,0,00:00:00,2,Yellow,02:29:17.99
+2025,6,Miami Grand Prix,1,00:09:31.034,1,AllClear,02:29:17.99
+2025,6,Miami Grand Prix,2,00:24:39.95,2,Yellow,02:29:17.99
+2025,6,Miami Grand Prix,3,00:25:20.127,1,AllClear,02:29:17.99
+2025,6,Miami Grand Prix,4,00:25:23.138,2,Yellow,02:29:17.99
+2025,6,Miami Grand Prix,5,00:38:24.94,1,AllClear,02:29:17.99
+2025,6,Miami Grand Prix,6,00:57:29.271,2,Yellow,02:29:17.99
+2025,6,Miami Grand Prix,7,00:57:36.935,1,AllClear,02:29:17.99
+2025,6,Miami Grand Prix,8,00:57:41.471,2,Yellow,02:29:17.99
+2025,6,Miami Grand Prix,9,00:57:46.655,1,AllClear,02:29:17.99
+2025,6,Miami Grand Prix,10,00:57:58.833,2,Yellow,02:29:17.99
+2025,6,Miami Grand Prix,11,00:58:44.838,1,AllClear,02:29:17.99
+2025,6,Miami Grand Prix,12,00:59:33.272,2,Yellow,02:29:17.99
+2025,6,Miami Grand Prix,13,00:59:36.613,6,VSCDeployed,02:29:17.99
+2025,6,Miami Grand Prix,14,01:02:28.176,7,VSCEnding,02:29:17.99
+2025,6,Miami Grand Prix,15,01:02:41.221,1,AllClear,02:29:17.99
+2025,6,Miami Grand Prix,16,01:41:38.098,6,VSCDeployed,02:29:17.99
+2025,6,Miami Grand Prix,17,01:43:44.835,7,VSCEnding,02:29:17.99
+2025,6,Miami Grand Prix,18,01:43:58.162,1,AllClear,02:29:17.99
+2025,6,Miami Grand Prix,19,01:48:41.954,6,VSCDeployed,02:29:17.99
+2025,6,Miami Grand Prix,20,01:50:04.478,7,VSCEnding,02:29:17.99
+2025,6,Miami Grand Prix,21,01:50:16.929,1,AllClear,02:29:17.99
+2025,7,Emilia Romagna Grand Prix,0,00:00:00,1,AllClear,02:30:01.103
+2025,7,Emilia Romagna Grand Prix,1,01:34:37.627,2,Yellow,02:30:01.103
+2025,7,Emilia Romagna Grand Prix,2,01:35:00.471,6,VSCDeployed,02:30:01.103
+2025,7,Emilia Romagna Grand Prix,3,01:38:28.757,7,VSCEnding,02:30:01.103
+2025,7,Emilia Romagna Grand Prix,4,01:38:40.212,1,AllClear,02:30:01.103
+2025,7,Emilia Romagna Grand Prix,5,01:58:33.346,2,Yellow,02:30:01.103
+2025,7,Emilia Romagna Grand Prix,6,01:58:52.94,4,SCDeployed,02:30:01.103
+2025,7,Emilia Romagna Grand Prix,7,02:14:08.275,1,AllClear,02:30:01.103
+2025,8,Monaco Grand Prix,0,00:00:00,1,AllClear,02:39:20.014
+2025,8,Monaco Grand Prix,1,00:24:26.032,2,Yellow,02:39:20.014
+2025,8,Monaco Grand Prix,2,00:24:35.108,1,AllClear,02:39:20.014
+2025,8,Monaco Grand Prix,3,00:57:00.403,2,Yellow,02:39:20.014
+2025,8,Monaco Grand Prix,4,00:57:18.05,1,AllClear,02:39:20.014
+2025,8,Monaco Grand Prix,5,00:57:42.459,6,VSCDeployed,02:39:20.014
+2025,8,Monaco Grand Prix,6,01:02:14.891,7,VSCEnding,02:39:20.014
+2025,8,Monaco Grand Prix,7,01:02:27.658,1,AllClear,02:39:20.014
+2025,8,Monaco Grand Prix,8,01:07:55.851,2,Yellow,02:39:20.014
+2025,8,Monaco Grand Prix,9,01:11:38.677,1,AllClear,02:39:20.014
+2025,8,Monaco Grand Prix,10,01:45:54.608,2,Yellow,02:39:20.014
+2025,8,Monaco Grand Prix,11,01:46:01.311,1,AllClear,02:39:20.014
+2025,9,Spanish Grand Prix,0,00:00:00,2,Yellow,02:38:14.399
+2025,9,Spanish Grand Prix,1,00:04:23.616,1,AllClear,02:38:14.399
+2025,9,Spanish Grand Prix,2,00:04:37.623,2,Yellow,02:38:14.399
+2025,9,Spanish Grand Prix,3,00:04:41.932,1,AllClear,02:38:14.399
+2025,9,Spanish Grand Prix,4,00:06:57.821,2,Yellow,02:38:14.399
+2025,9,Spanish Grand Prix,5,00:07:38.85,1,AllClear,02:38:14.399
+2025,9,Spanish Grand Prix,6,00:09:50.327,2,Yellow,02:38:14.399
+2025,9,Spanish Grand Prix,7,00:11:52.805,1,AllClear,02:38:14.399
+2025,9,Spanish Grand Prix,8,02:12:42.315,2,Yellow,02:38:14.399
+2025,9,Spanish Grand Prix,9,02:12:57.105,4,SCDeployed,02:38:14.399
+2025,9,Spanish Grand Prix,10,02:24:17.036,1,AllClear,02:38:14.399
+2025,10,Canadian Grand Prix,0,00:00:00,1,AllClear,02:53:14.423
+2025,10,Canadian Grand Prix,1,00:06:28.909,2,Yellow,02:53:14.423
+2025,10,Canadian Grand Prix,2,00:06:29.909,1,AllClear,02:53:14.423
+2025,10,Canadian Grand Prix,3,00:06:31.394,2,Yellow,02:53:14.423
+2025,10,Canadian Grand Prix,4,00:06:32.909,1,AllClear,02:53:14.423
+2025,10,Canadian Grand Prix,5,01:59:18.892,2,Yellow,02:53:14.423
+2025,10,Canadian Grand Prix,6,01:59:36.095,1,AllClear,02:53:14.423
+2025,10,Canadian Grand Prix,7,02:21:59.6,2,Yellow,02:53:14.423
+2025,10,Canadian Grand Prix,8,02:22:27.115,4,SCDeployed,02:53:14.423
+2025,10,Canadian Grand Prix,9,02:34:39.834,1,AllClear,02:53:14.423
+2025,11,Austrian Grand Prix,0,00:00:00,1,AllClear,02:41:20.006
+2025,11,Austrian Grand Prix,1,00:13:32.755,2,Yellow,02:41:20.006
+2025,11,Austrian Grand Prix,2,00:13:42.942,1,AllClear,02:41:20.006
+2025,11,Austrian Grand Prix,3,00:13:45.567,2,Yellow,02:41:20.006
+2025,11,Austrian Grand Prix,4,00:13:52.255,1,AllClear,02:41:20.006
+2025,11,Austrian Grand Prix,5,00:54:37.953,2,Yellow,02:41:20.006
+2025,11,Austrian Grand Prix,6,00:54:48.254,1,AllClear,02:41:20.006
+2025,11,Austrian Grand Prix,7,01:11:36.126,2,Yellow,02:41:20.006
+2025,11,Austrian Grand Prix,8,01:12:02.849,4,SCDeployed,02:41:20.006
+2025,11,Austrian Grand Prix,9,01:16:09.488,1,AllClear,02:41:20.006
+2025,11,Austrian Grand Prix,10,01:48:29.248,2,Yellow,02:41:20.006
+2025,11,Austrian Grand Prix,11,01:48:32.967,1,AllClear,02:41:20.006
+2025,11,Austrian Grand Prix,12,02:38:22.527,2,Yellow,02:41:20.006
+2025,11,Austrian Grand Prix,13,02:41:19.506,1,AllClear,02:41:20.006
+2025,12,British Grand Prix,0,00:00:00,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,1,00:06:30.062,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,2,00:23:42.51,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,3,00:43:10.428,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,4,00:56:42.108,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,5,00:56:58.107,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,6,00:57:02.7,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,7,00:58:07.014,6,VSCDeployed,02:37:14.243
+2025,12,British Grand Prix,8,01:02:37.206,7,VSCEnding,02:37:14.243
+2025,12,British Grand Prix,9,01:02:50.16,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,10,01:03:22.008,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,11,01:03:41.088,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,12,01:04:55.334,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,13,01:05:58.175,6,VSCDeployed,02:37:14.243
+2025,12,British Grand Prix,14,01:09:22.963,7,VSCEnding,02:37:14.243
+2025,12,British Grand Prix,15,01:09:36.809,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,16,01:21:18.098,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,17,01:21:20.598,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,18,01:21:33.748,4,SCDeployed,02:37:14.243
+2025,12,British Grand Prix,19,01:31:31.469,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,20,01:33:20.525,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,21,01:33:34.741,4,SCDeployed,02:37:14.243
+2025,12,British Grand Prix,22,01:41:47.464,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,23,01:42:57.697,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,24,01:43:00.324,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,25,02:13:15.635,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,26,02:13:25.454,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,27,02:18:27.504,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,28,02:18:29.505,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,29,02:19:40.697,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,30,02:19:50.537,1,AllClear,02:37:14.243
+2025,12,British Grand Prix,31,02:20:30.581,2,Yellow,02:37:14.243
+2025,12,British Grand Prix,32,02:20:41.958,1,AllClear,02:37:14.243
+2025,13,Belgian Grand Prix,0,00:00:00,2,Yellow,03:44:18.265
+2025,13,Belgian Grand Prix,1,00:03:22.262,1,AllClear,03:44:18.265
+2025,13,Belgian Grand Prix,2,00:05:07.967,2,Yellow,03:44:18.265
+2025,13,Belgian Grand Prix,3,00:06:33.358,1,AllClear,03:44:18.265
+2025,13,Belgian Grand Prix,4,00:56:30.244,5,Red,03:44:18.265
+2025,13,Belgian Grand Prix,5,01:49:22.639,1,AllClear,03:44:18.265
+2025,13,Belgian Grand Prix,6,01:50:17.767,2,Yellow,03:44:18.265
+2025,13,Belgian Grand Prix,7,01:50:48.524,1,AllClear,03:44:18.265
+2025,13,Belgian Grand Prix,8,01:50:49.447,2,Yellow,03:44:18.265
+2025,13,Belgian Grand Prix,9,01:50:57.658,1,AllClear,03:44:18.265
+2025,13,Belgian Grand Prix,10,01:51:06.322,2,Yellow,03:44:18.265
+2025,13,Belgian Grand Prix,11,02:08:52.652,1,AllClear,03:44:18.265
+2025,13,Belgian Grand Prix,12,02:16:22.768,4,SCDeployed,03:44:18.265
+2025,13,Belgian Grand Prix,13,02:26:05.268,1,AllClear,03:44:18.265
+2025,14,Hungarian Grand Prix,0,00:00:00,2,Yellow,02:36:52.94
+2025,14,Hungarian Grand Prix,1,00:01:30.044,1,AllClear,02:36:52.94
+2025,14,Hungarian Grand Prix,2,00:01:35.044,2,Yellow,02:36:52.94
+2025,14,Hungarian Grand Prix,3,00:02:34.547,1,AllClear,02:36:52.94
+2025,14,Hungarian Grand Prix,4,00:02:38.047,2,Yellow,02:36:52.94
+2025,14,Hungarian Grand Prix,5,00:02:57.804,1,AllClear,02:36:52.94
+2025,14,Hungarian Grand Prix,6,00:03:43.523,2,Yellow,02:36:52.94
+2025,14,Hungarian Grand Prix,7,00:10:33.222,1,AllClear,02:36:52.94
+2025,14,Hungarian Grand Prix,8,00:26:19.321,2,Yellow,02:36:52.94
+2025,14,Hungarian Grand Prix,9,00:27:10.209,1,AllClear,02:36:52.94
+2025,14,Hungarian Grand Prix,10,00:42:02.772,2,Yellow,02:36:52.94
+2025,14,Hungarian Grand Prix,11,00:42:27.92,1,AllClear,02:36:52.94
+2025,15,Dutch Grand Prix,0,00:00:00,1,AllClear,02:46:42.761
+2025,15,Dutch Grand Prix,1,00:01:51.509,2,Yellow,02:46:42.761
+2025,15,Dutch Grand Prix,2,00:02:10.275,1,AllClear,02:46:42.761
+2025,15,Dutch Grand Prix,3,00:08:23.726,2,Yellow,02:46:42.761
+2025,15,Dutch Grand Prix,4,00:44:29.238,1,AllClear,02:46:42.761
+2025,15,Dutch Grand Prix,5,01:24:59.711,2,Yellow,02:46:42.761
+2025,15,Dutch Grand Prix,6,01:25:15.021,4,SCDeployed,02:46:42.761
+2025,15,Dutch Grand Prix,7,01:31:40.313,1,AllClear,02:46:42.761
+2025,15,Dutch Grand Prix,8,01:37:47.801,6,VSCDeployed,02:46:42.761
+2025,15,Dutch Grand Prix,9,01:38:57.644,7,VSCEnding,02:46:42.761
+2025,15,Dutch Grand Prix,10,01:39:10.44,1,AllClear,02:46:42.761
+2025,15,Dutch Grand Prix,11,01:42:31.359,2,Yellow,02:46:42.761
+2025,15,Dutch Grand Prix,12,01:42:46.459,1,AllClear,02:46:42.761
+2025,15,Dutch Grand Prix,13,02:05:24.431,2,Yellow,02:46:42.761
+2025,15,Dutch Grand Prix,14,02:05:31.753,4,SCDeployed,02:46:42.761
+2025,15,Dutch Grand Prix,15,02:14:04.089,1,AllClear,02:46:42.761
+2025,15,Dutch Grand Prix,16,02:23:24.862,2,Yellow,02:46:42.761
+2025,15,Dutch Grand Prix,17,02:23:40.609,4,SCDeployed,02:46:42.761
+2025,15,Dutch Grand Prix,18,02:30:01.136,1,AllClear,02:46:42.761
+2025,15,Dutch Grand Prix,19,02:38:47.095,2,Yellow,02:46:42.761
+2025,16,Italian Grand Prix,0,00:00:00,2,Yellow,02:24:12.942
+2025,16,Italian Grand Prix,1,00:04:25.233,1,AllClear,02:24:12.942
+2025,16,Italian Grand Prix,2,00:24:59.126,2,Yellow,02:24:12.942
+2025,16,Italian Grand Prix,3,00:33:23.394,1,AllClear,02:24:12.942
+2025,16,Italian Grand Prix,4,01:53:33.012,2,Yellow,02:24:12.942
+2025,16,Italian Grand Prix,5,01:53:44.95,1,AllClear,02:24:12.942
+2025,17,Azerbaijan Grand Prix,0,00:00:00,1,AllClear,02:36:29.504
+2025,17,Azerbaijan Grand Prix,1,00:03:59.854,2,Yellow,02:36:29.504
+2025,17,Azerbaijan Grand Prix,2,00:04:17.862,1,AllClear,02:36:29.504
+2025,17,Azerbaijan Grand Prix,3,00:24:01.889,2,Yellow,02:36:29.504
+2025,17,Azerbaijan Grand Prix,4,00:31:51.697,1,AllClear,02:36:29.504
+2025,17,Azerbaijan Grand Prix,5,00:40:58.51,2,Yellow,02:36:29.504
+2025,17,Azerbaijan Grand Prix,6,00:42:21.09,1,AllClear,02:36:29.504
+2025,17,Azerbaijan Grand Prix,7,00:42:23.094,2,Yellow,02:36:29.504
+2025,17,Azerbaijan Grand Prix,8,00:42:51.608,1,AllClear,02:36:29.504
+2025,17,Azerbaijan Grand Prix,9,00:58:21.318,2,Yellow,02:36:29.504
+2025,17,Azerbaijan Grand Prix,10,00:58:50.517,4,SCDeployed,02:36:29.504
+2025,17,Azerbaijan Grand Prix,11,01:07:30.553,1,AllClear,02:36:29.504
+2025,17,Azerbaijan Grand Prix,12,01:13:24.493,2,Yellow,02:36:29.504
+2025,17,Azerbaijan Grand Prix,13,01:13:26.013,1,AllClear,02:36:29.504
+2025,17,Azerbaijan Grand Prix,14,01:31:02.791,2,Yellow,02:36:29.504
+2025,17,Azerbaijan Grand Prix,15,01:31:12.819,1,AllClear,02:36:29.504
+2025,17,Azerbaijan Grand Prix,16,01:33:03.83,2,Yellow,02:36:29.504
+2025,17,Azerbaijan Grand Prix,17,01:33:13.805,1,AllClear,02:36:29.504
+2025,17,Azerbaijan Grand Prix,18,02:35:15.387,2,Yellow,02:36:29.504
+2025,17,Azerbaijan Grand Prix,19,02:35:32.892,1,AllClear,02:36:29.504
+2025,18,Singapore Grand Prix,0,00:00:02.064,2,Yellow,02:40:42.852
+2025,18,Singapore Grand Prix,1,00:04:53.525,1,AllClear,02:40:42.852
+2025,18,Singapore Grand Prix,2,00:06:54.637,2,Yellow,02:40:42.852
+2025,18,Singapore Grand Prix,3,00:07:23.523,1,AllClear,02:40:42.852
+2025,18,Singapore Grand Prix,4,00:08:05.545,2,Yellow,02:40:42.852
+2025,18,Singapore Grand Prix,5,00:08:20.733,1,AllClear,02:40:42.852
+2025,18,Singapore Grand Prix,6,00:13:25.834,2,Yellow,02:40:42.852
+2025,18,Singapore Grand Prix,7,00:13:35.144,1,AllClear,02:40:42.852
+2025,18,Singapore Grand Prix,8,00:31:16.427,2,Yellow,02:40:42.852
+2025,18,Singapore Grand Prix,9,00:34:25.885,1,AllClear,02:40:42.852
+2025,18,Singapore Grand Prix,10,01:06:04.422,2,Yellow,02:40:42.852
+2025,18,Singapore Grand Prix,11,01:06:22.255,1,AllClear,02:40:42.852
+2025,18,Singapore Grand Prix,12,02:06:53.749,2,Yellow,02:40:42.852
+2025,18,Singapore Grand Prix,13,02:07:03.301,1,AllClear,02:40:42.852
+2025,19,United States Grand Prix,0,00:00:00,1,AllClear,02:34:49.288
+2025,19,United States Grand Prix,1,00:07:38.581,2,Yellow,02:34:49.288
+2025,19,United States Grand Prix,2,00:07:58.436,1,AllClear,02:34:49.288
+2025,19,United States Grand Prix,3,00:08:51.745,2,Yellow,02:34:49.288
+2025,19,United States Grand Prix,4,00:09:14.062,1,AllClear,02:34:49.288
+2025,19,United States Grand Prix,5,00:24:22.385,2,Yellow,02:34:49.288
+2025,19,United States Grand Prix,6,00:24:43.27,1,AllClear,02:34:49.288
+2025,19,United States Grand Prix,7,00:25:48.43,2,Yellow,02:34:49.288
+2025,19,United States Grand Prix,8,00:34:10.741,1,AllClear,02:34:49.288
+2025,19,United States Grand Prix,9,00:57:59.804,2,Yellow,02:34:49.288
+2025,19,United States Grand Prix,10,00:58:08.476,1,AllClear,02:34:49.288
+2025,19,United States Grand Prix,11,01:06:34.483,2,Yellow,02:34:49.288
+2025,19,United States Grand Prix,12,01:07:03.394,1,AllClear,02:34:49.288
+2025,19,United States Grand Prix,13,01:07:04.956,2,Yellow,02:34:49.288
+2025,19,United States Grand Prix,14,01:07:39.687,6,VSCDeployed,02:34:49.288
+2025,19,United States Grand Prix,15,01:10:59.989,7,VSCEnding,02:34:49.288
+2025,19,United States Grand Prix,16,01:11:12.616,1,AllClear,02:34:49.288
+2025,19,United States Grand Prix,17,01:54:48.902,2,Yellow,02:34:49.288
+2025,19,United States Grand Prix,18,01:54:58.675,1,AllClear,02:34:49.288
+2025,20,Mexico City Grand Prix,0,00:00:00,1,AllClear,02:41:47.743
+2025,20,Mexico City Grand Prix,1,01:00:39.516,2,Yellow,02:41:47.743
+2025,20,Mexico City Grand Prix,2,01:01:11.438,1,AllClear,02:41:47.743
+2025,20,Mexico City Grand Prix,3,01:04:41.755,2,Yellow,02:41:47.743
+2025,20,Mexico City Grand Prix,4,01:04:44.818,1,AllClear,02:41:47.743
+2025,20,Mexico City Grand Prix,5,02:32:05.543,2,Yellow,02:41:47.743
+2025,20,Mexico City Grand Prix,6,02:33:07.478,6,VSCDeployed,02:41:47.743
+2025,20,Mexico City Grand Prix,7,02:34:35.729,7,VSCEnding,02:41:47.743
+2025,20,Mexico City Grand Prix,8,02:34:47.646,1,AllClear,02:41:47.743
+2025,21,São Paulo Grand Prix,0,00:00:00,1,AllClear,02:32:38.888
+2025,21,São Paulo Grand Prix,1,00:46:32.143,2,Yellow,02:32:38.888
+2025,21,São Paulo Grand Prix,2,00:46:35.717,1,AllClear,02:32:38.888
+2025,21,São Paulo Grand Prix,3,00:57:56.247,2,Yellow,02:32:38.888
+2025,21,São Paulo Grand Prix,4,00:58:38.234,4,SCDeployed,02:32:38.888
+2025,21,São Paulo Grand Prix,5,01:05:22.922,1,AllClear,02:32:38.888
+2025,21,São Paulo Grand Prix,6,01:06:19.217,2,Yellow,02:32:38.888
+2025,21,São Paulo Grand Prix,7,01:07:12.049,6,VSCDeployed,02:32:38.888
+2025,21,São Paulo Grand Prix,8,01:10:06.866,7,VSCEnding,02:32:38.888
+2025,21,São Paulo Grand Prix,9,01:10:19.151,1,AllClear,02:32:38.888
+2025,22,Las Vegas Grand Prix,0,00:00:00,1,AllClear,02:22:51.06
+2025,22,Las Vegas Grand Prix,1,00:02:58.728,2,Yellow,02:22:51.06
+2025,22,Las Vegas Grand Prix,2,00:07:50.117,1,AllClear,02:22:51.06
+2025,22,Las Vegas Grand Prix,3,00:25:54.532,2,Yellow,02:22:51.06
+2025,22,Las Vegas Grand Prix,4,00:27:41.743,1,AllClear,02:22:51.06
+2025,22,Las Vegas Grand Prix,5,00:57:54.644,2,Yellow,02:22:51.06
+2025,22,Las Vegas Grand Prix,6,00:58:07.113,1,AllClear,02:22:51.06
+2025,22,Las Vegas Grand Prix,7,00:59:06.7,2,Yellow,02:22:51.06
+2025,22,Las Vegas Grand Prix,8,00:59:24.745,1,AllClear,02:22:51.06
+2025,22,Las Vegas Grand Prix,9,00:59:33.457,2,Yellow,02:22:51.06
+2025,22,Las Vegas Grand Prix,10,01:00:41.129,6,VSCDeployed,02:22:51.06
+2025,22,Las Vegas Grand Prix,11,01:03:26.725,7,VSCEnding,02:22:51.06
+2025,22,Las Vegas Grand Prix,12,01:03:39.511,1,AllClear,02:22:51.06
+2025,22,Las Vegas Grand Prix,13,01:23:12.954,6,VSCDeployed,02:22:51.06
+2025,22,Las Vegas Grand Prix,14,01:24:16.31,7,VSCEnding,02:22:51.06
+2025,22,Las Vegas Grand Prix,15,01:24:29.67,1,AllClear,02:22:51.06
+2025,23,Qatar Grand Prix,0,00:00:00,1,AllClear,02:29:45.803
+2025,23,Qatar Grand Prix,1,01:07:59.807,2,Yellow,02:29:45.803
+2025,23,Qatar Grand Prix,2,01:08:16.036,4,SCDeployed,02:29:45.803
+2025,23,Qatar Grand Prix,3,01:16:03.334,1,AllClear,02:29:45.803
+2025,24,Abu Dhabi Grand Prix,0,00:00:00,1,AllClear,02:34:40.2
+2025,24,Abu Dhabi Grand Prix,1,00:01:02.202,2,Yellow,02:34:40.2
+2025,24,Abu Dhabi Grand Prix,2,00:01:44.386,1,AllClear,02:34:40.2
+2025,24,Abu Dhabi Grand Prix,3,00:05:45.128,2,Yellow,02:34:40.2
+2025,24,Abu Dhabi Grand Prix,4,00:06:16.112,1,AllClear,02:34:40.2
+2025,24,Abu Dhabi Grand Prix,5,00:46:39.231,2,Yellow,02:34:40.2
+2025,24,Abu Dhabi Grand Prix,6,00:46:52.088,1,AllClear,02:34:40.2
+2026,1,Australian Grand Prix,0,00:00:00,2,Yellow,02:32:30.589
+2026,1,Australian Grand Prix,1,00:00:44.365,1,AllClear,02:32:30.589
+2026,1,Australian Grand Prix,2,00:04:09.211,2,Yellow,02:32:30.589
+2026,1,Australian Grand Prix,3,00:04:17.337,1,AllClear,02:32:30.589
+2026,1,Australian Grand Prix,4,00:04:33.056,2,Yellow,02:32:30.589
+2026,1,Australian Grand Prix,5,00:04:41.245,1,AllClear,02:32:30.589
+2026,1,Australian Grand Prix,6,00:06:37.821,2,Yellow,02:32:30.589
+2026,1,Australian Grand Prix,7,00:06:51.446,1,AllClear,02:32:30.589
+2026,1,Australian Grand Prix,8,00:07:14.404,2,Yellow,02:32:30.589
+2026,1,Australian Grand Prix,9,00:07:29.649,1,AllClear,02:32:30.589
+2026,1,Australian Grand Prix,10,00:20:15.255,2,Yellow,02:32:30.589
+2026,1,Australian Grand Prix,11,00:20:18.801,1,AllClear,02:32:30.589
+2026,1,Australian Grand Prix,12,00:20:19.311,2,Yellow,02:32:30.589
+2026,1,Australian Grand Prix,13,00:36:47.927,1,AllClear,02:32:30.589
+2026,1,Australian Grand Prix,14,00:39:16.147,2,Yellow,02:32:30.589
+2026,1,Australian Grand Prix,15,00:39:33.441,1,AllClear,02:32:30.589
+2026,1,Australian Grand Prix,16,01:18:02.176,6,VSCDeployed,02:32:30.589
+2026,1,Australian Grand Prix,17,01:22:00.872,7,VSCEnding,02:32:30.589
+2026,1,Australian Grand Prix,18,01:22:12.837,1,AllClear,02:32:30.589
+2026,1,Australian Grand Prix,19,01:28:31.603,2,Yellow,02:32:30.589
+2026,1,Australian Grand Prix,20,01:28:48.566,6,VSCDeployed,02:32:30.589
+2026,1,Australian Grand Prix,21,01:31:19.254,7,VSCEnding,02:32:30.589
+2026,1,Australian Grand Prix,22,01:31:32.561,1,AllClear,02:32:30.589
+2026,1,Australian Grand Prix,23,01:51:14.005,6,VSCDeployed,02:32:30.589
+2026,1,Australian Grand Prix,24,01:51:51.76,7,VSCEnding,02:32:30.589
+2026,1,Australian Grand Prix,25,01:52:04.353,1,AllClear,02:32:30.589
+2026,2,Chinese Grand Prix,0,00:00:00,2,Yellow,02:33:29.238
+2026,2,Chinese Grand Prix,1,00:05:01.74,1,AllClear,02:33:29.238
+2026,2,Chinese Grand Prix,2,00:25:03.549,2,Yellow,02:33:29.238
+2026,2,Chinese Grand Prix,3,00:27:09.237,1,AllClear,02:33:29.238
+2026,2,Chinese Grand Prix,4,00:56:50.933,2,Yellow,02:33:29.238
+2026,2,Chinese Grand Prix,5,00:56:57.115,1,AllClear,02:33:29.238
+2026,2,Chinese Grand Prix,6,00:57:42.93,2,Yellow,02:33:29.238
+2026,2,Chinese Grand Prix,7,00:57:48.129,1,AllClear,02:33:29.238
+2026,2,Chinese Grand Prix,8,01:12:03.24,2,Yellow,02:33:29.238
+2026,2,Chinese Grand Prix,9,01:12:28.768,4,SCDeployed,02:33:29.238
+2026,2,Chinese Grand Prix,10,01:20:14.594,1,AllClear,02:33:29.238
+2026,2,Chinese Grand Prix,11,01:27:19.813,2,Yellow,02:33:29.238
+2026,2,Chinese Grand Prix,12,01:27:52.83,1,AllClear,02:33:29.238
+2026,2,Chinese Grand Prix,13,01:43:43.243,2,Yellow,02:33:29.238
+2026,2,Chinese Grand Prix,14,01:43:49.956,1,AllClear,02:33:29.238
+2026,2,Chinese Grand Prix,15,01:52:35.42,2,Yellow,02:33:29.238
+2026,2,Chinese Grand Prix,16,01:52:47.281,1,AllClear,02:33:29.238
+2026,2,Chinese Grand Prix,17,02:24:36.284,2,Yellow,02:33:29.238
+2026,2,Chinese Grand Prix,18,02:24:38.414,1,AllClear,02:33:29.238
+2026,3,Japanese Grand Prix,0,00:55:07.321,2,Yellow,02:36:20.542
+2026,3,Japanese Grand Prix,1,00:55:07.321,1,AllClear,02:36:20.542
+2026,3,Japanese Grand Prix,2,01:37:36.756,2,Yellow,02:36:20.542
+2026,3,Japanese Grand Prix,3,01:37:54.294,4,SCDeployed,02:36:20.542
+2026,3,Japanese Grand Prix,4,01:51:07.431,1,AllClear,02:36:20.542
+2026,4,Miami Grand Prix,0,00:00:00,1,AllClear,02:48:54.658
+2026,4,Miami Grand Prix,1,00:28:11.432,2,Yellow,02:48:54.658
+2026,4,Miami Grand Prix,2,00:30:47.14,1,AllClear,02:48:54.658
+2026,4,Miami Grand Prix,3,00:31:09.235,2,Yellow,02:48:54.658
+2026,4,Miami Grand Prix,4,00:31:12.72,1,AllClear,02:48:54.658
+2026,4,Miami Grand Prix,5,00:31:13.251,2,Yellow,02:48:54.658
+2026,4,Miami Grand Prix,6,00:36:31.543,1,AllClear,02:48:54.658
+2026,4,Miami Grand Prix,7,01:05:05.815,2,Yellow,02:48:54.658
+2026,4,Miami Grand Prix,8,01:05:34.079,4,SCDeployed,02:48:54.658
+2026,4,Miami Grand Prix,9,01:18:52.924,1,AllClear,02:48:54.658
+2026,4,Miami Grand Prix,10,01:25:48.656,2,Yellow,02:48:54.658
+2026,4,Miami Grand Prix,11,01:25:52.109,1,AllClear,02:48:54.658
+2026,4,Miami Grand Prix,12,02:15:48.835,2,Yellow,02:48:54.658
+2026,4,Miami Grand Prix,13,02:15:51.375,1,AllClear,02:48:54.658
+2026,4,Miami Grand Prix,14,02:29:50.839,2,Yellow,02:48:54.658
+2026,4,Miami Grand Prix,15,02:29:56.351,1,AllClear,02:48:54.658
+2026,4,Miami Grand Prix,16,02:34:44.751,2,Yellow,02:48:54.658
+2026,5,Canadian Grand Prix,0,00:00:00,1,AllClear,02:40:16.088
+2026,5,Canadian Grand Prix,1,00:57:23.31,2,Yellow,02:40:16.088
+2026,5,Canadian Grand Prix,2,00:59:21.189,1,AllClear,02:40:16.088
+2026,5,Canadian Grand Prix,3,01:18:26.224,2,Yellow,02:40:16.088
+2026,5,Canadian Grand Prix,4,01:20:30.001,1,AllClear,02:40:16.088
+2026,5,Canadian Grand Prix,5,01:26:21.089,2,Yellow,02:40:16.088
+2026,5,Canadian Grand Prix,6,01:26:23.574,1,AllClear,02:40:16.088
+2026,5,Canadian Grand Prix,7,01:40:38.414,2,Yellow,02:40:16.088
+2026,5,Canadian Grand Prix,8,01:41:09.508,6,VSCDeployed,02:40:16.088
+2026,5,Canadian Grand Prix,9,01:44:17.183,7,VSCEnding,02:40:16.088
+2026,5,Canadian Grand Prix,10,01:44:29.19,1,AllClear,02:40:16.088
+2026,5,Canadian Grand Prix,11,01:54:21.487,2,Yellow,02:40:16.088
+2026,5,Canadian Grand Prix,12,01:54:27.037,1,AllClear,02:40:16.088
+2026,5,Canadian Grand Prix,13,02:01:33.274,6,VSCDeployed,02:40:16.088
+2026,5,Canadian Grand Prix,14,02:02:16.584,7,VSCEnding,02:40:16.088
+2026,5,Canadian Grand Prix,15,02:02:29.849,1,AllClear,02:40:16.088
+2026,5,Canadian Grand Prix,16,02:10:12.499,6,VSCDeployed,02:40:16.088
+2026,5,Canadian Grand Prix,17,02:12:10.609,7,VSCEnding,02:40:16.088
+2026,5,Canadian Grand Prix,18,02:12:24.656,1,AllClear,02:40:16.088
+2026,5,Canadian Grand Prix,19,02:21:56.797,2,Yellow,02:40:16.088
+2026,5,Canadian Grand Prix,20,02:22:04.375,1,AllClear,02:40:16.088
+2026,6,Monaco Grand Prix,0,00:00:00,1,AllClear,03:28:05.61
+2026,6,Monaco Grand Prix,1,00:00:36.058,2,Yellow,03:28:05.61
+2026,6,Monaco Grand Prix,2,00:05:49.64,1,AllClear,03:28:05.61
+2026,6,Monaco Grand Prix,3,00:17:32.354,2,Yellow,03:28:05.61
+2026,6,Monaco Grand Prix,4,00:18:11.662,1,AllClear,03:28:05.61
+2026,6,Monaco Grand Prix,5,00:55:25.051,2,Yellow,03:28:05.61
+2026,6,Monaco Grand Prix,6,00:55:39.27,1,AllClear,03:28:05.61
+2026,6,Monaco Grand Prix,7,02:11:52.958,2,Yellow,03:28:05.61
+2026,6,Monaco Grand Prix,8,02:12:09.958,4,SCDeployed,03:28:05.61
+2026,6,Monaco Grand Prix,9,02:22:41.389,1,AllClear,03:28:05.61
+2026,6,Monaco Grand Prix,10,02:22:57.045,2,Yellow,03:28:05.61
+2026,6,Monaco Grand Prix,11,02:23:26.07,4,SCDeployed,03:28:05.61
+2026,6,Monaco Grand Prix,12,02:27:14.994,5,Red,03:28:05.61
+2026,6,Monaco Grand Prix,13,02:52:56.195,1,AllClear,03:28:05.61
+2026,6,Monaco Grand Prix,14,03:04:34.923,4,SCDeployed,03:28:05.61
+2026,6,Monaco Grand Prix,15,03:07:37.872,1,AllClear,03:28:05.61
+2026,6,Monaco Grand Prix,16,03:09:41.862,2,Yellow,03:28:05.61
+2026,6,Monaco Grand Prix,17,03:09:59.878,1,AllClear,03:28:05.61
+2026,6,Monaco Grand Prix,18,03:22:03.453,2,Yellow,03:28:05.61
+2026,7,Barcelona Grand Prix,0,00:00:00,1,AllClear,02:30:37.857
+2026,7,Barcelona Grand Prix,1,00:02:53.069,2,Yellow,02:30:37.857
+2026,7,Barcelona Grand Prix,2,00:02:58.147,1,AllClear,02:30:37.857
+2026,7,Barcelona Grand Prix,3,00:03:18.069,2,Yellow,02:30:37.857
+2026,7,Barcelona Grand Prix,4,00:04:08.067,1,AllClear,02:30:37.857
+2026,7,Barcelona Grand Prix,5,00:23:11.073,2,Yellow,02:30:37.857
+2026,7,Barcelona Grand Prix,6,00:25:04.453,1,AllClear,02:30:37.857
+2026,7,Barcelona Grand Prix,7,00:26:23.537,2,Yellow,02:30:37.857
+2026,7,Barcelona Grand Prix,8,00:26:38.005,1,AllClear,02:30:37.857
+2026,7,Barcelona Grand Prix,9,00:34:04.179,2,Yellow,02:30:37.857
+2026,7,Barcelona Grand Prix,10,00:34:36.274,1,AllClear,02:30:37.857
+2026,7,Barcelona Grand Prix,11,01:48:44.66,2,Yellow,02:30:37.857
+2026,7,Barcelona Grand Prix,12,01:49:15.934,6,VSCDeployed,02:30:37.857
+2026,7,Barcelona Grand Prix,13,01:51:33.224,7,VSCEnding,02:30:37.857
+2026,7,Barcelona Grand Prix,14,01:51:44.157,1,AllClear,02:30:37.857
+2026,7,Barcelona Grand Prix,15,02:19:46.749,2,Yellow,02:30:37.857
+2026,7,Barcelona Grand Prix,16,02:20:05.262,6,VSCDeployed,02:30:37.857
+2026,7,Barcelona Grand Prix,17,02:23:48.032,7,VSCEnding,02:30:37.857
+2026,7,Barcelona Grand Prix,18,02:23:58.188,1,AllClear,02:30:37.857
+2026,8,Austrian Grand Prix,0,00:00:00,1,AllClear,02:28:58.428
+2026,8,Austrian Grand Prix,1,00:14:25.549,2,Yellow,02:28:58.428
+2026,8,Austrian Grand Prix,2,00:14:31.579,1,AllClear,02:28:58.428
+2026,8,Austrian Grand Prix,3,00:14:40.404,2,Yellow,02:28:58.428
+2026,8,Austrian Grand Prix,4,00:14:44.455,1,AllClear,02:28:58.428
+2026,8,Austrian Grand Prix,5,00:24:52.687,2,Yellow,02:28:58.428
+2026,8,Austrian Grand Prix,6,00:25:01.957,1,AllClear,02:28:58.428
+2026,8,Austrian Grand Prix,7,00:26:07.07,2,Yellow,02:28:58.428
+2026,8,Austrian Grand Prix,8,00:26:48.702,1,AllClear,02:28:58.428
+2026,8,Austrian Grand Prix,9,00:27:14.653,2,Yellow,02:28:58.428
+2026,8,Austrian Grand Prix,10,00:27:48.793,1,AllClear,02:28:58.428
+2026,8,Austrian Grand Prix,11,01:26:15.584,2,Yellow,02:28:58.428
+2026,8,Austrian Grand Prix,12,01:26:42.549,6,VSCDeployed,02:28:58.428
+2026,8,Austrian Grand Prix,13,01:29:19.277,7,VSCEnding,02:28:58.428
+2026,8,Austrian Grand Prix,14,01:29:32.352,1,AllClear,02:28:58.428
+2026,8,Austrian Grand Prix,15,02:00:51.463,6,VSCDeployed,02:28:58.428
+2026,8,Austrian Grand Prix,16,02:01:24.728,7,VSCEnding,02:28:58.428
+2026,8,Austrian Grand Prix,17,02:01:35.694,1,AllClear,02:28:58.428
+2026,9,British Grand Prix,0,00:00:00,2,Yellow,02:35:47.017
+2026,9,British Grand Prix,1,00:07:12.992,1,AllClear,02:35:47.017
+2026,9,British Grand Prix,2,00:22:45.684,2,Yellow,02:35:47.017
+2026,9,British Grand Prix,3,00:37:49.629,1,AllClear,02:35:47.017
+2026,9,British Grand Prix,4,00:54:20.053,2,Yellow,02:35:47.017
+2026,9,British Grand Prix,5,00:54:34.194,1,AllClear,02:35:47.017
+2026,9,British Grand Prix,6,00:56:22.1,2,Yellow,02:35:47.017
+2026,9,British Grand Prix,7,00:56:27.233,1,AllClear,02:35:47.017
+2026,9,British Grand Prix,8,00:58:14.02,2,Yellow,02:35:47.017
+2026,9,British Grand Prix,9,00:58:17.141,1,AllClear,02:35:47.017
+2026,9,British Grand Prix,10,01:29:21.037,6,VSCDeployed,02:35:47.017
+2026,9,British Grand Prix,11,01:29:44.189,7,VSCEnding,02:35:47.017
+2026,9,British Grand Prix,12,01:29:59.091,1,AllClear,02:35:47.017
+2026,9,British Grand Prix,13,01:55:20.323,2,Yellow,02:35:47.017
+2026,9,British Grand Prix,14,01:55:47.545,6,VSCDeployed,02:35:47.017
+2026,9,British Grand Prix,15,01:57:00.478,7,VSCEnding,02:35:47.017
+2026,9,British Grand Prix,16,01:57:15.273,1,AllClear,02:35:47.017
+2026,9,British Grand Prix,17,02:10:15.354,2,Yellow,02:35:47.017
+2026,9,British Grand Prix,18,02:10:35.334,4,SCDeployed,02:35:47.017
+2026,9,British Grand Prix,19,02:23:01.764,1,AllClear,02:35:47.017
+2026,10,Belgian Grand Prix,0,00:00:00,2,Yellow,02:26:09.832
+2026,10,Belgian Grand Prix,1,00:01:36.643,1,AllClear,02:26:09.832
+2026,10,Belgian Grand Prix,2,00:01:58.523,2,Yellow,02:26:09.832
+2026,10,Belgian Grand Prix,3,00:02:00.539,1,AllClear,02:26:09.832
+2026,10,Belgian Grand Prix,4,00:25:59.947,2,Yellow,02:26:09.832
+2026,10,Belgian Grand Prix,5,00:26:49.256,1,AllClear,02:26:09.832
+2026,10,Belgian Grand Prix,6,00:26:49.748,2,Yellow,02:26:09.832
+2026,10,Belgian Grand Prix,7,00:31:42.05,1,AllClear,02:26:09.832
+2026,10,Belgian Grand Prix,8,00:31:51.146,2,Yellow,02:26:09.832
+2026,10,Belgian Grand Prix,9,00:32:15.038,1,AllClear,02:26:09.832
+2026,10,Belgian Grand Prix,10,00:32:20.594,2,Yellow,02:26:09.832
+2026,10,Belgian Grand Prix,11,00:33:34.34,1,AllClear,02:26:09.832
+2026,10,Belgian Grand Prix,12,00:34:11.856,2,Yellow,02:26:09.832
+2026,10,Belgian Grand Prix,13,00:34:58.505,1,AllClear,02:26:09.832
+2026,10,Belgian Grand Prix,14,00:35:04.632,2,Yellow,02:26:09.832
+2026,10,Belgian Grand Prix,15,00:35:13.264,1,AllClear,02:26:09.832
+2026,10,Belgian Grand Prix,16,00:56:38.945,2,Yellow,02:26:09.832
+2026,10,Belgian Grand Prix,17,00:57:28.935,4,SCDeployed,02:26:09.832
+2026,10,Belgian Grand Prix,18,01:05:53.861,1,AllClear,02:26:09.832
+2026,10,Belgian Grand Prix,19,01:12:58.517,2,Yellow,02:26:09.832
+2026,10,Belgian Grand Prix,20,01:13:20.561,1,AllClear,02:26:09.832
+2026,10,Belgian Grand Prix,21,01:31:17.257,6,VSCDeployed,02:26:09.832
+2026,10,Belgian Grand Prix,22,01:31:50.297,7,VSCEnding,02:26:09.832
+2026,10,Belgian Grand Prix,23,01:32:02.66,1,AllClear,02:26:09.832
+2026,10,Belgian Grand Prix,24,01:35:21.998,6,VSCDeployed,02:26:09.832
+2026,10,Belgian Grand Prix,25,01:36:55.609,7,VSCEnding,02:26:09.832
+2026,10,Belgian Grand Prix,26,01:37:10.185,1,AllClear,02:26:09.832
+2026,11,Hungarian Grand Prix,0,00:00:00,2,Yellow,02:37:08.181
+2026,11,Hungarian Grand Prix,1,00:06:07.109,1,AllClear,02:37:08.181
+2026,11,Hungarian Grand Prix,2,00:14:56.422,2,Yellow,02:37:08.181
+2026,11,Hungarian Grand Prix,3,00:21:37.077,1,AllClear,02:37:08.181
+2026,11,Hungarian Grand Prix,4,01:49:26.645,2,Yellow,02:37:08.181
+2026,11,Hungarian Grand Prix,5,01:49:29.699,1,AllClear,02:37:08.181
+2026,11,Hungarian Grand Prix,6,02:05:28.377,2,Yellow,02:37:08.181
+2026,11,Hungarian Grand Prix,7,02:05:30.893,1,AllClear,02:37:08.181
+2026,11,Hungarian Grand Prix,8,02:13:30.752,2,Yellow,02:37:08.181
+2026,11,Hungarian Grand Prix,9,02:13:45.164,6,VSCDeployed,02:37:08.181
+2026,11,Hungarian Grand Prix,10,02:15:03.072,7,VSCEnding,02:37:08.181
+2026,11,Hungarian Grand Prix,11,02:15:14.197,1,AllClear,02:37:08.181
+2026,12,Dutch Grand Prix,0,00:00:00,2,Yellow,03:22:05.1
+2026,12,Dutch Grand Prix,1,00:23:35.485,1,AllClear,03:22:05.1
+2026,12,Dutch Grand Prix,2,00:23:37.057,2,Yellow,03:22:05.1
+2026,12,Dutch Grand Prix,3,00:46:11.141,1,AllClear,03:22:05.1
+2026,12,Dutch Grand Prix,4,00:58:13.788,2,Yellow,03:22:05.1
+2026,12,Dutch Grand Prix,5,00:58:45.416,5,Red,03:22:05.1
+2026,12,Dutch Grand Prix,6,01:01:17.062,1,AllClear,03:22:05.1
+2026,12,Dutch Grand Prix,7,01:01:17.928,2,Yellow,03:22:05.1
+2026,12,Dutch Grand Prix,8,01:14:01.635,1,AllClear,03:22:05.1
+2026,12,Dutch Grand Prix,9,01:14:51.949,2,Yellow,03:22:05.1
+2026,12,Dutch Grand Prix,10,01:15:00.732,1,AllClear,03:22:05.1
+2026,12,Dutch Grand Prix,11,01:15:04.133,2,Yellow,03:22:05.1
+2026,12,Dutch Grand Prix,12,01:15:24.46,1,AllClear,03:22:05.1
+2026,12,Dutch Grand Prix,13,01:15:42.851,2,Yellow,03:22:05.1
+2026,12,Dutch Grand Prix,14,01:16:34.279,1,AllClear,03:22:05.1
+2026,12,Dutch Grand Prix,15,01:28:46.268,2,Yellow,03:22:05.1
+2026,12,Dutch Grand Prix,16,01:29:49.72,1,AllClear,03:22:05.1
+2026,12,Dutch Grand Prix,17,01:33:04.451,2,Yellow,03:22:05.1
+2026,12,Dutch Grand Prix,18,01:33:05.936,1,AllClear,03:22:05.1
+2026,12,Dutch Grand Prix,19,02:37:21.35,2,Yellow,03:22:05.1
+2026,12,Dutch Grand Prix,20,02:37:52.189,6,VSCDeployed,03:22:05.1
+2026,12,Dutch Grand Prix,21,02:41:58.65,7,VSCEnding,03:22:05.1
+2026,12,Dutch Grand Prix,22,02:42:09.771,1,AllClear,03:22:05.1
+2026,12,Dutch Grand Prix,23,02:57:38.903,6,VSCDeployed,03:22:05.1
+2026,12,Dutch Grand Prix,24,02:58:30.518,7,VSCEnding,03:22:05.1
+2026,12,Dutch Grand Prix,25,02:58:42.607,1,AllClear,03:22:05.1
+2026,12,Dutch Grand Prix,26,03:06:06.738,2,Yellow,03:22:05.1
+2026,13,Italian Grand Prix,0,00:00:00,2,Yellow,02:55:19.196
+2026,13,Italian Grand Prix,1,00:12:50.677,1,AllClear,02:55:19.196
+2026,13,Italian Grand Prix,2,00:25:18.845,2,Yellow,02:55:19.196
+2026,13,Italian Grand Prix,3,00:33:21.548,1,AllClear,02:55:19.196
+2026,13,Italian Grand Prix,4,00:59:57.947,2,Yellow,02:55:19.196
+2026,13,Italian Grand Prix,5,01:00:14.412,4,SCDeployed,02:55:19.196
+2026,13,Italian Grand Prix,6,01:01:07.837,5,Red,02:55:19.196
+2026,13,Italian Grand Prix,7,01:02:50.487,1,AllClear,02:55:19.196
+2026,13,Italian Grand Prix,8,01:03:06.486,2,Yellow,02:55:19.196
+2026,13,Italian Grand Prix,9,01:23:14.089,1,AllClear,02:55:19.196
+2026,13,Italian Grand Prix,10,01:39:58.424,2,Yellow,02:55:19.196
+2026,13,Italian Grand Prix,11,01:40:05.991,1,AllClear,02:55:19.196
+2026,13,Italian Grand Prix,12,02:10:55.234,2,Yellow,02:55:19.196
+2026,13,Italian Grand Prix,13,02:11:09.379,6,VSCDeployed,02:55:19.196
+2026,13,Italian Grand Prix,14,02:12:56.105,7,VSCEnding,02:55:19.196
+2026,13,Italian Grand Prix,15,02:13:06.88,1,AllClear,02:55:19.196
+2026,14,Spanish Grand Prix,0,00:00:00,2,Yellow,02:41:58.179
+2026,14,Spanish Grand Prix,1,00:02:18.479,1,AllClear,02:41:58.179
+2026,14,Spanish Grand Prix,2,00:44:29.334,2,Yellow,02:41:58.179
+2026,14,Spanish Grand Prix,3,00:44:50.664,1,AllClear,02:41:58.179
+2026,14,Spanish Grand Prix,4,00:58:24.187,2,Yellow,02:41:58.179
+2026,14,Spanish Grand Prix,5,00:58:42.416,1,AllClear,02:41:58.179
+2026,14,Spanish Grand Prix,6,01:06:34.144,2,Yellow,02:41:58.179
+2026,14,Spanish Grand Prix,7,01:06:39.337,1,AllClear,02:41:58.179
+2026,14,Spanish Grand Prix,8,01:20:50.503,2,Yellow,02:41:58.179
+2026,14,Spanish Grand Prix,9,01:21:27.569,6,VSCDeployed,02:41:58.179
+2026,14,Spanish Grand Prix,10,01:23:30.923,7,VSCEnding,02:41:58.179
+2026,14,Spanish Grand Prix,11,01:23:41.465,1,AllClear,02:41:58.179
+2026,15,Azerbaijan Grand Prix,0,00:00:00,2,Yellow,03:04:59.905
+2026,15,Azerbaijan Grand Prix,1,00:02:14.536,1,AllClear,03:04:59.905
+2026,15,Azerbaijan Grand Prix,2,00:04:27.195,2,Yellow,03:04:59.905
+2026,15,Azerbaijan Grand Prix,3,00:05:22.629,1,AllClear,03:04:59.905
+2026,15,Azerbaijan Grand Prix,4,00:06:21.018,2,Yellow,03:04:59.905
+2026,15,Azerbaijan Grand Prix,5,00:08:11.91,1,AllClear,03:04:59.905
+2026,15,Azerbaijan Grand Prix,6,00:42:27.453,2,Yellow,03:04:59.905
+2026,15,Azerbaijan Grand Prix,7,00:42:34.488,1,AllClear,03:04:59.905
+2026,15,Azerbaijan Grand Prix,8,01:11:40.306,2,Yellow,03:04:59.905
+2026,15,Azerbaijan Grand Prix,9,01:11:48.585,1,AllClear,03:04:59.905
+2026,15,Azerbaijan Grand Prix,10,01:49:40.74,2,Yellow,03:04:59.905
+2026,15,Azerbaijan Grand Prix,11,01:49:45.791,1,AllClear,03:04:59.905
+2026,15,Azerbaijan Grand Prix,12,01:50:48.916,2,Yellow,03:04:59.905
+2026,15,Azerbaijan Grand Prix,13,01:51:08.346,4,SCDeployed,03:04:59.905
+2026,15,Azerbaijan Grand Prix,14,02:04:16.597,1,AllClear,03:04:59.905
+2026,15,Azerbaijan Grand Prix,15,02:04:38.418,2,Yellow,03:04:59.905
+2026,15,Azerbaijan Grand Prix,16,02:05:42.447,4,SCDeployed,03:04:59.905
+2026,15,Azerbaijan Grand Prix,17,02:11:55.417,1,AllClear,03:04:59.905
+2026,15,Azerbaijan Grand Prix,18,02:14:03.404,2,Yellow,03:04:59.905
+2026,15,Azerbaijan Grand Prix,19,02:14:10.396,1,AllClear,03:04:59.905
+2026,15,Azerbaijan Grand Prix,20,02:32:33.908,2,Yellow,03:04:59.905
+2026,15,Azerbaijan Grand Prix,21,02:32:38.227,1,AllClear,03:04:59.905
+2026,15,Azerbaijan Grand Prix,22,02:33:54.209,2,Yellow,03:04:59.905
+2026,16,Bahrain Grand Prix,0,00:00:00,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,1,00:27:22.606,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,2,00:27:37.912,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,3,00:35:05.9,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,4,00:36:34.03,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,5,00:38:08.603,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,6,00:39:09.389,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,7,01:02:52.182,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,8,01:28:47.268,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,9,01:28:50.424,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,10,01:28:53.893,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,11,01:28:56.58,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,12,01:29:00.815,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,13,01:29:02.658,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,14,01:29:03.83,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,15,01:38:12.316,5,Red,04:18:58.186
+2026,16,Bahrain Grand Prix,16,01:58:45.005,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,17,02:11:07.68,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,18,02:15:51.086,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,19,02:15:53.07,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,20,02:17:01.302,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,21,02:29:25.003,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,22,02:29:35.21,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,23,02:39:05.376,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,24,02:39:15.626,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,25,02:42:18.687,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,26,02:42:45.04,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,27,02:45:01.275,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,28,02:45:16.509,4,SCDeployed,04:18:58.186
+2026,16,Bahrain Grand Prix,29,02:53:17.087,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,30,02:54:04.198,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,31,02:54:05.354,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,32,02:54:07.714,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,33,02:54:13.407,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,34,02:58:51.124,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,35,02:59:26.435,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,36,03:45:50.511,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,37,03:45:51.183,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,38,03:45:52.011,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,39,03:45:53.699,1,AllClear,04:18:58.186
+2026,16,Bahrain Grand Prix,40,03:45:54.527,2,Yellow,04:18:58.186
+2026,16,Bahrain Grand Prix,41,03:46:02.136,6,VSCDeployed,04:18:58.186
+2026,16,Bahrain Grand Prix,42,03:51:26.747,4,SCDeployed,04:18:58.186
+2026,16,Bahrain Grand Prix,43,04:06:20.981,1,AllClear,04:18:58.186

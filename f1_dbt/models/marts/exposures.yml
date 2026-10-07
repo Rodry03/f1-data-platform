@@ -11,6 +11,7 @@ exposures:
       - ref('driver_standings')
       - ref('team_performance')
       - ref('fastest_laps_enriched')
+      - ref('track_status_periods')
     owner:
       name: Rodrigo
       email: tu@email.com
@@ -24,9 +25,12 @@ exposures:
       - ref('driver_standings')
       - ref('team_performance')
       - ref('fastest_laps_enriched')
+      - ref('track_status_periods')
       - ref('stg_races')
       - ref('stg_results')
       - ref('stg_fastest_laps')
+      - ref('stg_track_status')
+      - ref('stg_leader_laps')
     owner:
       name: Rodrigo
       email: tu@email.com

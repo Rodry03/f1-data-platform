@@ -11,3 +11,7 @@ sources:
         description: "Resultados de cada piloto por carrera"
       - name: raw_fastest_laps
         description: "Vuelta rápida por carrera"
+      - name: raw_track_status
+        description: "Cambios de estado de pista (session.track_status) por carrera; time relativo al inicio de sesión"
+      - name: raw_leader_laps
+        description: "Vueltas del líder (primer piloto en completar cada vuelta) por carrera"

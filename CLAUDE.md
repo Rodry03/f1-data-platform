@@ -44,15 +44,15 @@ The pipeline has three distinct stages, each with its own entry point:
 ```
 FastF1 API
     ↓  ingest_f1.py
-f1_data.duckdb  (raw_races, raw_results, raw_fastest_laps tables)
+f1_data.duckdb  (raw_races, raw_results, raw_fastest_laps, raw_track_status, raw_leader_laps tables)
     ↓  export_seeds.py
 f1_dbt/seeds/*.csv
     ↓  dbt seed
 DuckDB (main schema) ← source: f1_raw
     ↓  dbt run (staging layer — incremental views)
-stg_races / stg_results / stg_fastest_laps
+stg_races / stg_results / stg_fastest_laps / stg_track_status / stg_leader_laps
     ↓  dbt run (marts layer — tables)
-driver_standings / team_performance / fastest_laps_enriched
+driver_standings / team_performance / fastest_laps_enriched / track_status_periods
     ↓  rag_f1.py
 RAG Chatbot (LangChain + Groq llama-3.3-70b)
 ```
@@ -85,4 +85,4 @@ Copy `.env.example` to `.env` and fill in:
 GROQ_API_KEY=...   # required for rag_f1.py (free at console.groq.com)
 ```
 
-The `rag_f1.py` chatbot queries the three mart tables directly via DuckDB. It must be run from the project root so it can resolve `f1_data.duckdb`.
+The `rag_f1.py` chatbot queries the mart tables listed in `chatbot_schema.CHATBOT_TABLES` (shared with `streamlit_app.py`) directly via DuckDB. It must be run from the project root so it can resolve `f1_data.duckdb`.

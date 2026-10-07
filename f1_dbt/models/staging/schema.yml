@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: stg_leader_laps
+    description: "Vueltas del líder por carrera como rangos contiguos de tiempo de sesión"
+    tests:
+      - dbt_utils.mutually_exclusive_ranges:
+          lower_bound_column: lap_start_s
+          upper_bound_column: lap_end_s
+          partition_by: race_id
+          gaps: not_allowed
+    columns:
+      - name: lap_start_s
+        tests:
+          - not_null
+      - name: lap_end_s
+        tests:
+          - not_null

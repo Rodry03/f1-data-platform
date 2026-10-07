@@ -35,3 +35,16 @@ models:
       +materialized: view
     marts:
       +materialized: table
+
+# Los tiempos de FastF1 se exportan como intervalos ('00:55:05.68'); se cargan como
+# texto y se convierten a segundos en staging
+seeds:
+  f1_dbt:
+    raw_track_status:
+      +column_types:
+        time: varchar
+        session_end_time: varchar
+    raw_leader_laps:
+      +column_types:
+        lap_start_time: varchar
+        lap_end_time: varchar

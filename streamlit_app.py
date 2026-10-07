@@ -8,6 +8,8 @@ from dotenv import load_dotenv
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
 
+from chatbot_schema import CHATBOT_TABLES, TABLE_NOTES
+
 load_dotenv()
 
 st.set_page_config(
@@ -80,12 +82,14 @@ def query(sql, params=None):
 
 @st.cache_data
 def get_schema_text():
-    tables = ["driver_standings", "team_performance", "fastest_laps_enriched"]
     parts = []
-    for t in tables:
+    for t in CHATBOT_TABLES:
         cols = con.execute(f"DESCRIBE {t}").fetchall()
         col_str = ", ".join(f"{c[0]} ({c[1]})" for c in cols)
-        parts.append(f"Tabla: {t}\nColumnas: {col_str}")
+        part = f"Tabla: {t}\nColumnas: {col_str}"
+        if t in TABLE_NOTES:
+            part += f"\n{TABLE_NOTES[t]}"
+        parts.append(part)
     return "\n\n".join(parts)
 
 
