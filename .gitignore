@@ -1,6 +1,8 @@
 venv/
 cache_f1/
 f1_data.duckdb
+*.backup.duckdb
+logs/
 f1_dbt/target/
 f1_dbt/dbt_packages/
 __pycache__/
